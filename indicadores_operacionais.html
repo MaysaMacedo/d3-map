@@ -36,7 +36,7 @@
 			</div>
 		</div>
 		<header>
-			<h1>População atendida com esgotamento sanitário</h1>
+			<h1>índice de esgoto tratado</h1>
 		</header>
 
 		<div id="chart"></div>
@@ -70,24 +70,23 @@
         .scale(1300)
         .translate([width / 2, height / 4]);
 
+    var color_domain = [20, 40, 60, 80, 100]
+    var ext_color_domain = [0,20, 40, 60, 80, 100]
+  	var legend_labels = ["<20", "20+", "40+", "60+","80+", "100"]   
+
+  	var color = d3.scaleThreshold()
+  		.domain(color_domain)
+  		.range([d3.rgb(8, 48, 107, 0.2), d3.rgb(8, 48, 107, 0.4), d3.rgb(8, 48, 107, 0.6), d3.rgb(8, 48, 107, 0.8), d3.rgb(8, 48, 107, 1)]);
 
     var path = d3.geoPath().projection(projection);
 
-    var ext_color_domain = [0,10000, 25000, 50000, 100000, 360000]
-    var color_domain = [10000, 25000, 50000, 100000, 360000]
-  	var legend_labels = ["<10000", "10000+", "25000+", "50000+","100000+", "360000"]     
-
-
-		 var color = d3.scaleThreshold()
-  		.domain(color_domain)
-  		.range([ "#ff1300", "#ff4e40", "#ff7d73", "#ffba00", "#ffcb40", "#adfcad"]);
 
 		d3.queue()
 			.defer(d3.json, "data/municipios_sab.json")
-			.defer(d3.csv, "data/info_esgoto.csv")
+			.defer(d3.csv, "data/indicadores_operacionais_esgoto.csv")
 			.await(draw);
 
-    function draw(error, pb, info_esgoto) {
+    function draw(error, pb, indicadores_esgoto) {
       if (error) throw error;
 
 		var municipios = topojson.feature(pb, pb.objects.municipios_sab);
@@ -100,15 +99,13 @@
          return "populacao-"+d.properties.ID; })
         .attr("d", path);
 
-			for (var i = 0; i < info_esgoto.length; i++) {
-				svg.select("#populacao-"+info_esgoto[i].GEOCODIGO)
-					.attr("fill", color(+info_esgoto[i].populacaoTotalAtendidaComEsgotamentoSanitarioHabitantes));
+			for (var i = 0; i < indicadores_esgoto.length; i++) {
+				svg.select("#populacao-"+indicadores_esgoto[i].GEOCODIGO)
+					.attr("fill", color(+indicadores_esgoto[i].indiceDeEsgotoTratadoReferidoAguaConsumidaPercentual));
 			}
     }
 
-    //Adding legend for our Choropleth
-
-  var legend = svg.selectAll("g.legend")
+   var legend = svg.selectAll("g.legend")
   .data(ext_color_domain)
   .enter().append("g")
   .attr("class", "legend");

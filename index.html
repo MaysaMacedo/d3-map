@@ -39,9 +39,10 @@
 
 		<ol class="breadcrumb">
 			<li><a href="esgoto.html">1</a></li>
+			<li><a href="indicadores_operacionais.html">2</a></li>
 		</ol>
 		<header>
-			<h1>Qual a população que possui abastecimento de água?</h1>
+			<h1>População que possui abastecimento de água</h1>
 		</header>
 
 		<div id="chart"></div>
@@ -73,12 +74,19 @@
         .rotate([0, 0])
         .parallels([0, 0])
         .scale(1300)
-        .translate([width / 2, height / 2]);
+        .translate([width / 2, height / 4]);
 
     var path = d3.geoPath().projection(projection);
 
-    var populacaoScale = d3.scaleThreshold();
-    var demandaScale = d3.scaleLinear();
+    var color_domain = [1000, 5000, 10000, 20000, 30000]
+    var ext_color_domain = [0,1000, 5000, 10000, 20000, 30000]
+  	var legend_labels = ["<1000", "1000+", "5000+", "10000+","20000+", "30000"]   
+
+
+    var color = d3.scaleThreshold()
+  		.domain(color_domain)
+  		.range([d3.rgb(84, 39, 143, 0.2), d3.rgb(84, 39, 143, 0.4), d3.rgb(84, 39, 143, 0.6), d3.rgb(84, 39, 143, 0.8), d3.rgb(84, 39, 143, 1)]);
+
 
 		d3.queue()
 			.defer(d3.json, "data/municipios_sab.json")
@@ -90,30 +98,40 @@
 
 			var municipios = topojson.feature(pb, pb.objects.municipios_sab);
 
-			populacaoScale
-       .domain([1000, 5000, 10000, 20000, 30000])
-				.range([d3.rgb(8, 48, 107, 0.2), d3.rgb(8, 48, 107, 0.4), d3.rgb(8, 48, 107, 0.6), d3.rgb(8, 48, 107, 0.8), d3.rgb(8, 48, 107, 1)]);
 
       svg.selectAll(".municipios")
         .data(municipios.features)
       .enter().append("path")
         .attr("id", function(d) {
          return "populacao-"+d.properties.ID; })
-        .attr("d", path)
-        .style("opacity", 0.5);
-
-      svg.selectAll(".municipios")
-        .data(municipios.features)
-      .enter().append("path")
-        .attr("id", function(d) { return "demanda-"+d.properties.ID })
-        .attr("d", path)
-        .style("opacity", 0.5);
+        .attr("d", path);
 
 			for (var i = 0; i < info_agua.length; i++) {
 				svg.select("#populacao-"+info_agua[i].GEOCODIGO)
-					.attr("fill", populacaoScale(+info_agua[i].popTotalAtendidaComAbastecimentoDeAguaHabitantes));
+					.attr("fill", color(+info_agua[i].popTotalAtendidaComAbastecimentoDeAguaHabitantes));
 			}
     }
+        //Adding legend for our Choropleth
+
+  var legend = svg.selectAll("g.legend")
+  .data(ext_color_domain)
+  .enter().append("g")
+  .attr("class", "legend");
+
+  var ls_w = 20, ls_h = 20;
+
+  legend.append("rect")
+  .attr("x", 20)
+  .attr("y", function(d, i){ return height - (i*ls_h) - 2*ls_h;})
+  .attr("width", ls_w)
+  .attr("height", ls_h)
+  .style("fill", function(d, i) { return color(d); })
+  .style("opacity", 0.8);
+
+  legend.append("text")
+  .attr("x", 50)
+  .attr("y", function(d, i){ return height - (i*ls_h) - ls_h - 4;})
+  .text(function(d, i){ return legend_labels[i]; });
 		</script>
 
 </body>

@@ -1,0 +1,1136 @@
+CÌ_digo.do.MunicÌ_pio,MunicÌ_pio,Estado,Ano.de.ReferÌ»ncia,Prestadores,ServiÌ_os,IN015_AE...Ìçndice.de.coleta.de.esgoto..percentual.,IN016_AE...Ìçndice.de.tratamento.de.esgoto..percentual.,IN021_AE...ExtensÌ£o.da.rede.de.esgoto.por.ligaÌ_Ì£o..m.lig.,IN024_AE...Ìçndice.de.atendimento.urbano.de.esgoto.referido.aos.municÌ_pios.atendidos.com.ÌÁgua..percentual.,indiceDeEsgotoTratadoReferidoAguaConsumidaPercentual,IN047_AE...Ìçndice.de.atendimento.urbano.de.esgoto.referido.aos.municÌ_pios.atendidos.com.esgoto..percentual.,IN056_AE...Ìçndice.de.atendimento.total.de.esgoto.referido.aos.municÌ_pios.atendidos.com.ÌÁgua..percentual.,IN059_AE...Ìçndice.de.consumo.de.energia.elÌ©trica.em.sistemas.de.esgotamento.sanitÌÁrio..kWh.m..,GEOCODIGO
+220005,AcauÌ£,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22000540] PREFEITURA - SO,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2200053
+220025,Alagoinha do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22002540] PREFEITURA MUNICIPAL DE ALAGOINHA DO PIAUI - PMAPI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2200251
+220027,Alegrete do PiauÌ_,PI,2015,[22002711] Prefeitura Municipal de Alegrete do PiauÌ_ - PMAPI; [22002740] Prefeitura Municipal de Alegrete do PiauÌ_ - PMAPI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2200277
+220045,Alvorada do GurguÌ©ia,PI,2015,[22004511] Prefeitura Municipal de Alvorada do GurguÌ©ia - PMAG; [22004540] PREFEITURA MUNICIPAL DE ALVORADA DO GURGUEIA - PMAGPI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2200459
+220070,AnÌ_sio de Abreu,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2200707
+220090,Aroazes,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2200905
+220095,Aroeiras do Itaim,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2200954
+220105,AssunÌ_Ì£o do PiauÌ_,PI,2015,[22010511] Prefeitura Municipal de AssunÌ_Ì£o do PiauÌ_ - PMAP; [22010540] SECRETARIA DE ADMINISTRAÌàÌÄO E PLANEJAMENTO - SAPLAN,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2201051
+220110,Avelino Lopes,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22011040] PREFEITURA MUNICIPAL DE AVELINO LOPES - PMAL,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2201101
+220155,Bela Vista do PiauÌ_,PI,2015,[22015540] PREFEITURA MUNICIPAL DE BELA VISTA DO PIAUI - PM,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2201556
+220157,BelÌ©m do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2201572
+220170,BertolÌ_nia,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2201705
+220173,BetÌ¢nia do PiauÌ_,PI,2015,[22017340] Prefeitura Municipal de BetÌ¢nia do Piaui - PM,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2201739
+220180,Bocaina,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2201804
+220190,Bom Jesus,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2201903
+220192,Bonfim do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2201929
+220198,Brejo do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22019840] Prefeitura Municipal de Brejo do PiauÌ_ - PMBP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2201988
+220202,Buriti dos Montes,PI,2015,[22020211] Prefeitura Municipal de Buriti dos Montes - PMBM; [22020240] Prefeitura Municipal de Buriti dos Montes - PMBM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2202026
+220207,Cajazeiras do PiauÌ_,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2202075
+220209,CaldeirÌ£o Grande do PiauÌ_,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2202091
+220210,Campinas do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2202109
+220211,Campo Alegre do Fidalgo,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2202117
+220213,Campo Grande do PiauÌ_,PI,2015,[22021311] Prefeitura Municipal de Campo Grande do PiauÌ_ - PMCGP; [22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22021340] Prefeitura Municipal Campo Grande do PiauÌ_ - PM,ÌÅgua e Esgoto; ÌÅgua; Res SÌ_lidos,13.07,0,49.57,6.14,0,6.14,3.45,1.67,2202133
+220225,Canavieira,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2202251
+220230,Canto do Buriti,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22023040] PREFEITURA MUNICIPAL DE CANTO DO BURITI - PI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2202307
+220245,CapitÌ£o GervÌÁsio Oliveira,PI,2015,[22024511] Prefeitura Municipal de CapitÌ£o GervÌÁsio Oliveira - PMCGO; [22024540] PREFEITURA MUNICIPAL DE CAPITAO GERVASIO OLIVEIRA - PMCGO,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2202455
+220250,Caracol,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2202505
+220255,Caridade do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2202554
+220260,Castelo do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22026040] PREFEITURA MUNICIPAL DE CASTELO DO PIAUI - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2202604
+220275,ColÌ«nia do GurguÌ©ia,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2202752
+220277,ColÌ«nia do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2202778
+220280,ConceiÌ_Ì£o do CanindÌ©,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22028040] SECRETARIA DE OBRAS SANEAMENTO E ABASTECIMENTO - SOSA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2202802
+220285,Coronel JosÌ© Dias,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2202851
+220310,Cristino Castro,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2203107
+220320,CurimatÌÁ,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2203206
+220323,Currais,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2203230
+220327,Curral Novo do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2203271
+220335,Dirceu Arcoverde,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2203354
+220340,Dom Expedito Lopes,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22034040] Prefeitura Municipal de Dom Expedito Lopes - PMDEL,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2203404
+220342,Domingos MourÌ£o,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2203420
+220345,Dom InocÌ»ncio,PI,2015,[22034540] Secretaria Municipal de Obras - SMO,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2203453
+220360,Eliseu Martins,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2203602
+220375,Fartura do PiauÌ_,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2203750
+220380,Flores do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2203800
+220385,Floresta do PiauÌ_,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2203859
+220415,Francisco Macedo,PI,2015,[22041540] Prefeitura Municipal de Francisco Macedo - PMFM,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2204154
+220420,Francisco Santos,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22042040] Prefeitura Municipal de Francisco Santos - PMFS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2204204
+220430,Fronteiras,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22043040] Prefeitura Municipal de Fronteiras - PMF,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2204303
+220435,Geminiano,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2204352
+220455,Guaribas,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2204550
+220470,Inhuma,PI,2015,[22047011] Prefeitura Municipal de Inhuma - PMI; [22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22047040] Prefeitura Municipal de Inhuma - PMI,Esgoto; ÌÅgua; Res SÌ_lidos,14.21,0,9.14,47.44,0,47.44,23.27,0,2204709
+220480,Ipiranga do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22048040] Prefeitura Municipal de Ipiranga do PiauÌ_ - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2204808
+220490,IsaÌ_as Coelho,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2204907
+220500,ItainÌ_polis,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2205003
+220510,Itaueira,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22051040] Prefeitura Municipal de Itaueira - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2205102
+220515,Jacobina do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2205151
+220520,JaicÌ_s,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2205201
+220535,JoÌ£o Costa,PI,2015,[22053511] Prefeitura Municipal de JoÌ£o Costa - PMJC; [22053540] Prefeitura Municipal de JoÌ£o Costa - PMJC,ÌÅgua e Esgoto; Res SÌ_lidos,13.33,0,4.77,100,0,100,60.71,0,2205359
+220551,Juazeiro do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22055140] Prefeitura Municipal de Juazeiro do Piaui - PMJPI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2205516
+220552,JÌ_lio Borges,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2205524
+220553,Jurema,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2205532
+220556,Lagoa do Barro do PiauÌ_,PI,2015,[22055640] Prefeitura Municipal Lagoa do Barro do PiauÌ_ - PMLBP,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2205565
+220557,Lagoa de SÌ£o Francisco,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2205573
+220559,Lagoa do SÌ_tio,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2205599
+220590,Manoel EmÌ_dio,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2205904
+220595,MarcolÌ¢ndia,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2205953
+220605,MassapÌ» do PiauÌ_,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2206050
+220635,Milton BrandÌ£o,PI,2015,[22063511] Prefeitura Municipal de Milton BrandÌ£o - PMMB; [22063540] PREFEITURA MUNICIPAL DE MILTON BRANDAO - PMMB,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2206357
+220650,Monsenhor HipÌ_lito,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22065040] Prefeitura Municipal de Monsenhor HipÌ_lito - PMMH,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2206506
+220665,Morro CabeÌ_a no Tempo,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2206654
+220670,NazarÌ© do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2206704
+220690,Novo Oriente do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2206902
+220700,Oeiras,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22070040] Prefeitura Municipal - PM,ÌÅgua e Esgoto; Res SÌ_lidos,33.58,100,6.64,40.49,33.58,40.49,24.99,0.72,2207009
+220720,Padre Marcos,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2207207
+220730,Paes Landim,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22073040] Prefeitura Municipal de Paes Landim - PMPL,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2207306
+220735,PajeÌ_ do PiauÌ_,PI,2015,[22073511] Prefeitura Municipal de Pajeu do PiauÌ_ - PMPP,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2207355
+220740,Palmeira do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2207405
+220755,PaquetÌÁ,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2207553
+220777,Patos do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2207777
+220780,Paulistana,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2207801
+220785,Pavussu,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2207850
+220790,Pedro II,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2207900
+220793,Pedro Laurentino,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2207934
+220795,Nova Santa Rita,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2207959
+220800,Picos,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua e Esgoto,26.21,100,8.92,31.77,26.21,31.77,25.23,0.07,2208007
+220810,Pimenteiras,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22081040] Prefeitura Municipal de Pimenteiras - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2208106
+220820,Pio IX,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22082040] Prefeitura Municipal de Pio Ix - PMPI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2208205
+220830,Piracuruca,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22083040] SECRETARIA MUNICIPAL DE MEIO AMBIENTE - SMMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2208304
+220865,Queimada Nova,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2208650
+220870,RedenÌ_Ì£o do GurguÌ©ia,PI,2015,[22087011] Prefeitura Municipal de RedenÌ_Ì£o do GurguÌ©ia - PMRG; [22087040] Prefeitura Municipal de RedenÌ_Ì£o do GurguÌ©ia - PMRG,Esgoto; Res SÌ_lidos,NA,0,16,NA,NA,0.92,NA,0,2208700
+220887,Ribeira do PiauÌ_,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2208874
+220900,Rio Grande do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2209005
+220910,Santa Cruz do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2209104
+220915,Santa Cruz dos Milagres,PI,2015,[22091511] Prefeitura Municipal de Santa Cruz dos Milagres - PMSCM; [22091540] SECRETARIA DE AGRICULTURA - SA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2209153
+220930,Santa Luz,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2209302
+220935,Santana do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2209351
+220937,Santa Rosa do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22093740] Prefeitura Municipal de Santa Rosa do PiauÌ_ - PMSR,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2209377
+220940,Santo AntÌ«nio de Lisboa,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2209401
+220950,Santo InÌÁcio do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2209500
+220955,SÌ£o Braz do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2209559
+220965,SÌ£o Francisco de Assis do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22096540] PREFEITURA MUNICIPAL DE SÌÄO FRANCISCO DE ASSIS DO PIAUÌç - PMSFA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2209658
+220970,SÌ£o Francisco do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2209708
+220985,SÌ£o JoÌ£o da Canabrava,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22098540] PREFEITURA MUNICIPAL DE SAO JOAO DA CANABRAVA - PMSJC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2209856
+220987,SÌ£o JoÌ£o da Fronteira,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2209872
+220990,SÌ£o JoÌ£o da Serra,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2209906
+220995,SÌ£o JoÌ£o da Varjota,PI,2015,[22099511] Prefeitura Municipal de SÌ£o JoÌ£o da Varjota - PMSJV; [22099540] SECRETARIA DE SAÌ_DE - SSSV,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2209955
+221000,SÌ£o JoÌ£o do PiauÌ_,PI,2015,[22100011] Prefeitura Municipal de SÌ£o JoÌ£o do PiauÌ_ - PMSJP; [22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,Esgoto; ÌÅgua,44.36,0,9.6,97.03,0,97.03,79.42,1,2210003
+221005,SÌ£o JosÌ© do Divino,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2210052
+221010,SÌ£o JosÌ© do Peixe,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2210102
+221020,SÌ£o JosÌ© do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2210201
+221030,SÌ£o JuliÌ£o,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22103040] Prefeitura MUNICIPAL DE SÌÄO JULIÌÄO - pmsj,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2210300
+221035,SÌ£o LourenÌ_o do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2210359
+221037,SÌ£o Luis do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2210375
+221039,SÌ£o Miguel do Fidalgo,PI,2015,[22103940] PREFEITURA MUNICIPAL DE SÌÄO MIGUEL DO FIDALGO - PMSMF,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2210391
+221040,SÌ£o Miguel do Tapuio,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2210409
+221060,SÌ£o Raimundo Nonato,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22106040] DEPARTAMENTO DE LIMPEZA URBANA - DLU,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2210607
+221063,SebastiÌ£o Leal,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22106340] Prefeitura Municipal de SebastiÌ£o Leal - PMSL,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2210631
+221070,SimÌµes,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2210706
+221080,SimplÌ_cio Mendes,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2210805
+221090,Socorro do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2210904
+221093,Sussuapara,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2210938
+221095,Tamboril do PiauÌ_,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2210953
+221097,Tanque do PiauÌ_,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2210979
+221130,ValenÌ_a do PiauÌ_,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2211308
+221135,VÌÁrzea Branca,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22113540] Prefeitura Municipal de VÌÁrzea Branca - PMVB,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2211357
+221150,Vera Mendes,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2211506
+221160,Vila Nova do PiauÌ_,PI,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2211605
+221170,Wall Ferraz,PI,2015,[22110000] ÌÅguas e Esgotos do PiauÌ_ S/A - AGESPISA; [22117040] PREFEITURA MUNICIPAL DE WALL FERRAZ - PMWF,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2211704
+230010,Abaiara,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2300101
+230015,AcarapÌ©,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,22.8,100,15.01,20.39,22.8,20.39,10.61,0.33,2300150
+230030,Acopiara,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23003040] Secretaria da Infraestrutura - SEINFRA,ÌÅgua e Esgoto; Res SÌ_lidos,17.68,100,12.91,14.9,17.68,14.9,7.35,0.43,2300309
+230040,Aiuaba,CE,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2300408
+230050,AlcÌ¢ntaras,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23005040] Prefeitura Municipal de AlcÌ¢ntaras - PMA,ÌÅgua e Esgoto; Res SÌ_lidos,41.66,100,10.31,40.07,41.66,40.07,12.83,0.09,2300507
+230060,Altaneira,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,10.33,100,20.14,10.11,10.33,10.11,7.31,0,2300606
+230070,Alto Santo,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2300705
+230080,Antonina do Norte,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2300804
+230090,ApuiarÌ©s,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23009040] PREFEITURA MUNICIPA DE APUIARES - PMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2300903
+230110,Aracati,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23011040] SECRETARIA DE INFRAESTRUTURA E URBANISMO - SEINFRA,ÌÅgua e Esgoto; Res SÌ_lidos,20.65,100,15.65,20.93,20.65,20.93,13.33,0.37,2301109
+230120,Aracoiaba,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2301208
+230125,ArarendÌÁ,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23012540] Prefeitura Municipal de ArarendÌÁ - PMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2301257
+230130,Araripe,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23013040] Prefeitura Municipal de Araripe - PMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2301307
+230140,Aratuba,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23014040] Prefeitura Municipal de Aratuba - PMA,ÌÅgua e Esgoto; Res SÌ_lidos,28.62,100,8.1,26.96,28.62,26.96,8.81,0.72,2301406
+230150,Arneiroz,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2301505
+230160,AssarÌ©,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2301604
+230170,Aurora,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23017040] PREFEITURTA MUNICIPAL DE AURORA CEARA - PMA,ÌÅgua e Esgoto; Res SÌ_lidos,11.98,100,15.17,13.07,11.98,13.07,6.29,1.09,2301703
+230180,Baixio,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2301802
+230185,BanabuiÌ_,CE,2015,[23018511] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2301851
+230190,Barbalha,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,10.84,100,16.66,9.87,10.84,9.87,6.78,0.21,2301901
+230195,Barreira,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23019540] Secretaria da Infraestrutura e Controle Urbano - SEINCO,ÌÅgua e Esgoto; Res SÌ_lidos,12.31,100,25.98,12.43,12.31,12.43,5.16,0.25,2301950
+230200,Barro,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,8.22,100,15.29,9.34,8.22,9.34,5.71,0.12,2302008
+230210,BaturitÌ©,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23021040] SECRETARIA DE INFRAESTRUTURA E URBANISMO - SEINFRA,ÌÅgua e Esgoto; Res SÌ_lidos,1.88,100,7.04,2.67,1.88,2.67,1.96,0.08,2302107
+230240,Boa Viagem,CE,2015,[23024011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE; [23024012] Prefeitura Municipal de Boa Viagem - PMBV; [23024040] Prefeitura Municipal - PMBV,ÌÅgua; Esgoto; Res SÌ_lidos,100,0,13.65,66.8,0,66.8,33.85,0,2302404
+230250,Brejo Santo,CE,2015,[23025040] SECRATARIA DE INFRAESTUTURA E URBANISMO - SEINFRA,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2302503
+230270,Campos Sales,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,18.47,100,11.06,13.2,18.47,13.2,9.5,0.75,2302701
+230280,CanindÌ©,CE,2015,[23028011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto de CanindÌ© - SAAE; [23028040] SECRETARIA DE INFRAESTRUTURA E DESENVOLVIMENTO URBANO - SEINFRA,ÌÅgua e Esgoto; Res SÌ_lidos,9.32,100,6.08,21.33,9.32,21.33,13.43,NA,2302800
+230290,Capistrano,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2302909
+230300,Caridade,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23030040] Prefeitura Municipal de Caridade - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2303006
+230310,CarirÌ©,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23031040] PREFEITURA MUNICIPAL DE CARIRÌä - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2303105
+230320,CaririaÌ_u,CE,2015,[23032011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAMAE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2303204
+230330,CariÌ_s,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2303303
+230340,Carnaubal,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23034040] PREFEITURA DE CARNAUBAL / SECRETARIA DE INFRAESTRUTURA E SERVIÌàOS PÌ_BLICOS - SEINFRA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2303402
+230360,Catarina,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23036040] PREFEITURA MUNICIPAL DE CATARINA - PMC,ÌÅgua e Esgoto; Res SÌ_lidos,20.08,100,21.02,21.88,20.08,21.88,10.19,1.24,2303600
+230365,Catunda,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2303659
+230370,Caucaia,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,34.17,100,8.72,33.16,34.17,33.16,29.57,0.42,2303709
+230380,Cedro,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,4.68,100,11.32,5.7,4.68,5.7,3.52,0,2303808
+230393,ChorÌ_,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2303931
+230395,Chorozinho,CE,2015,[23039511] Prefeitura Municipal de Chorozinho - PMC; [23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23039540] Secretaria de Planejamento e Desenvolvimento Urbano - SPDU,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,7,99.97,0,99.97,60.39,0.02,2303956
+230400,CoreaÌ_,CE,2015,[23040011] Prefeitura Municipal de CoreaÌ_ - PMC; [23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23040040] PREFEITURA MUNICIPAL DE COREAÌ_ - PMC,Esgoto; ÌÅgua e Esgoto; Res SÌ_lidos,100,6.24,9.93,79.19,15.89,79.19,65.02,2.3,2304004
+230410,CrateÌ_s,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,35.22,100,15.58,36.27,35.22,36.27,26.23,0.3,2304103
+230420,Crato,CE,2015,[23042011] Sociedade AnÌ«nima de ÌÅgua e Esgoto do Crato - SAAEC,ÌÅgua e Esgoto,21.83,0,8.52,33.22,0,33.22,27.61,NA,2304202
+230423,CroatÌÁ,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23042340] PREFEITURA MUNICIPAL DE CROATA - PMC,ÌÅgua e Esgoto; Res SÌ_lidos,18.55,100,12.63,12.23,18.55,12.23,6.48,0.23,2304236
+230426,Deputado Irapuan Pinheiro,CE,2015,[23042611] Prefeitura Municipal de Deputado Irapuan Pinheiro - PMDIP; [23042640] Secretaria de Obras.  ServiÌ_os PÌ_blicos e Transportes - SOSPT,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2304269
+230427,ErerÌ»,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2304277
+230430,Farias Brito,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23043040] SECRETARIA MUNICIPAL DE INFRAESTRUTURA - SEINFRA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2304301
+230435,Forquilha,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23043540] SEINFRA - SECRETARIA DE INFRAESTRUTURA - SEINFRA,ÌÅgua e Esgoto; Res SÌ_lidos,27.02,100,10.12,28.91,27.02,28.91,20.53,0.15,2304350
+230450,Frecheirinha,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23045040] Secretaria de Infra Estrutura e Meio Ambiente - Meio Ambiente,ÌÅgua e Esgoto; Res SÌ_lidos,11.07,100,12.86,13.41,11.07,13.41,7.88,0.2,2304509
+230460,General Sampaio,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23046040] Secretaria do Desenvolvimento Rural e Meio Ambiente - SEDERMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2304608
+230465,GraÌ_a,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23046540] PREFEITURA MUNICIPAL DE GRAÌàA - PMG,ÌÅgua e Esgoto; Res SÌ_lidos,12.03,100,20.81,11.34,12.03,11.34,4.38,0.54,2304657
+230480,Granjeiro,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23048040] Prefeitura Municipal de Granjeiro - PMG,ÌÅgua e Esgoto; Res SÌ_lidos,33.6,100,8.58,37.74,33.6,37.74,11.17,0.16,2304806
+230490,GroaÌ_ras,CE,2015,[23049011] Prefeitura Municipal de GroaÌ_ras - PMG; [23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23049040] Prefeitura Municipal de GroaÌ_ras - PMG,Esgoto; ÌÅgua; Res SÌ_lidos,57.6,15,8.19,100,11.52,100,100,1.13,2304905
+230500,Guaraciaba do Norte,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23050040] Prefeitura Municipal de Guaraciaba do Norte - PMGN,ÌÅgua e Esgoto; Res SÌ_lidos,11.58,100,19.3,9.79,11.58,9.79,4.51,0.26,2305001
+230510,Guaramiranga,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,54.43,100,4.24,32.79,54.43,32.79,19.65,0.7,2305100
+230520,HidrolÌ¢ndia,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2305209
+230523,Horizonte,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23052340] SECRETARIA DE INFRA-ESTRUTURA - SEINFRA,ÌÅgua e Esgoto; Res SÌ_lidos,15.29,100,7.52,7.42,15.29,7.42,6.87,0.36,2305233
+230526,Ibaretama,CE,2015,[23052640] Secretaria de ServiÌ_os PÌ_blicos - SSP,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2305266
+230530,Ibiapina,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23053040] PREFEITURA MUNICIPAL DE IBIAPINA - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2305308
+230533,Ibicuitinga,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2305332
+230535,IcapuÌ_,CE,2015,[23053511] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgotos de IcapuÌ_ - SAAE; [23053540] Secretaria de Obras. ServiÌ_os Publicos e Urbanismo - SecObras,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2305357
+230540,IcÌ_,CE,2015,[23054011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE; [23054040] PREFEITURA MUNICIPAL DE ICÌÒ - PMI/ICÌÒ,ÌÅgua e Esgoto; Res SÌ_lidos,43.48,95.22,7.61,57.08,41.41,57.08,26.56,0.09,2305407
+230550,Iguatu,CE,2015,[23055011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto de Iguatu - SAAE; [23055040] Secretaria do Meio Ambiente e Desenvolvimento Urbano - SEMURB,ÌÅgua e Esgoto; Res SÌ_lidos,19.53,100,6.62,19.77,19.53,19.77,15.29,0.11,2305506
+230560,IndependÌ»ncia,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,22.6,100,11.75,22.94,22.6,22.94,10.29,0.55,2305605
+230565,Ipaporanga,CE,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2305654
+230570,Ipaumirim,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23057040] PREFEITURA MUNICIPAL DE IPAUMIRIM - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2305704
+230580,Ipu,CE,2015,[23058040] SECRETARIA MUNICIPAL DE INFRAESTRUTURA - SEINFRA,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2305803
+230590,Ipueiras,CE,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2305902
+230600,Iracema,CE,2015,[23060011] Prefeitura Municipal de Iracema - PMI; [23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23060040] PREFEITURA MUNICIPAL DE IRACEMA - PMI,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,8.33,89.38,0,89.38,63.96,0,2306009
+230610,IrauÌ_uba,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23061040] SECRETARIA DE INFRAESTRUTURA - SEINFRA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2306108
+230620,ItaiÌ_aba,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23062040] PREFEITURA MUNICIPAL DE ITAIÌàABA-SECRETARIA DE INFRAESTRUTURA - PMI-SEINFRA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2306207
+230630,ItapagÌ©,CE,2015,[23063011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE,ÌÅgua e Esgoto,3.49,0,4.41,4.17,0,4.17,3.62,NA,2306306
+230640,Itapipoca,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23064040] PREFEITURA DE ITAPIPOCA - PMI,ÌÅgua e Esgoto; Res SÌ_lidos,46.69,100,4.6,38.34,46.69,38.34,22.1,0.44,2306405
+230650,ItapiÌ_na,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23065040] SECRETARIA DE OBRAS INFRAESTRUTURA E CONTROLE URBANO - SOICU,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2306504
+230660,Itatira,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23066040] Secretaria Municipal de Infra Estrutura e Urbanismo S - SMIU,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2306603
+230670,Jaguaretama,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23067040] Prefeitura Municipal de Jaguaretama - PMJ,ÌÅgua e Esgoto; Res SÌ_lidos,2.73,100,7.84,3.34,2.73,3.34,1.58,0.31,2306702
+230680,Jaguaribara,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,50.49,100,21.06,73.08,50.49,73.08,50.68,0.23,2306801
+230690,Jaguaribe,CE,2015,[23069011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE; [23069040] Secretaria da Cidade e Infraestrutura - SEINFRA,ÌÅgua e Esgoto; Res SÌ_lidos,25.79,94.74,6.03,35.31,24.44,35.31,23.88,0.19,2306900
+230700,Jaguaruana,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2307007
+230710,Jardim,CE,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2307106
+230720,Jati,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23072040] Prefeitura Municipal de Jati - PMJ,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2307205
+230730,Juazeiro do Norte,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23073040] Autarquia de Meio Ambiente de Juazeiro do Norte - AMAJU,ÌÅgua e Esgoto; Res SÌ_lidos,23.29,100,7.09,22.89,23.29,22.89,21.99,0.31,2307304
+230740,JucÌÁs,CE,2015,[23074011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE,ÌÅgua e Esgoto,41.14,63.83,11.43,57.38,26.26,57.38,34.1,0.28,2307403
+230750,Lavras da Mangabeira,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2307502
+230760,Limoeiro do Norte,CE,2015,[23076011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE,ÌÅgua e Esgoto,21.32,100,15.6,29.55,21.32,29.55,17.06,0.13,2307601
+230763,Madalena,CE,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2307635
+230770,Maranguape,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,7.64,100,8.19,7.55,7.64,7.55,5.74,0.34,2307700
+230800,MassapÌ»,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23080040] SECRETARIA DE INFRAESTRUTURA E MEIO AMBIENTE - SEIMA,ÌÅgua e Esgoto; Res SÌ_lidos,17.93,100,10.32,20.5,17.93,20.5,13.97,0.74,2308005
+230810,Mauriti,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23081040] PREFEITURA MUNICIPAL DE MAURITI - PMM,ÌÅgua e Esgoto; Res SÌ_lidos,14.76,100,7.82,11,14.76,11,5.79,0.19,2308104
+230820,Meruoca,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2308203
+230830,Milagres,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2308302
+230835,MilhÌ£,CE,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2308351
+230837,MiraÌ_ma,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2308377
+230840,MissÌ£o Velha,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,2.82,100,20.29,2.33,2.82,2.33,1.05,0.88,2308401
+230850,MombaÌ_a,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23085040] PREFEITURA MUNICIPAL DE MOMBAÌàA - PMM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2308500
+230860,Monsenhor Tabosa,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2308609
+230870,Morada Nova,CE,2015,[23087011] ServiÌ_o de AutÌ«nomo de ÌÅgua e Esgoto - SAAE,ÌÅgua e Esgoto,2.41,100,10.53,4.53,2.41,4.53,2.58,NA,2308708
+230900,Mucambo,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,10.62,100,13.71,17.2,10.62,17.2,11.06,0.28,2309003
+230910,Mulungu,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23091040] Prefeitura Municipal de Mulungu - PMM,ÌÅgua e Esgoto; Res SÌ_lidos,19.36,100,14.76,12.01,19.36,12.01,4.39,2.94,2309102
+230920,Nova Olinda,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23092040] Secretaria de ServiÌ_o Publicos - SSP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2309201
+230930,Nova Russas,CE,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2309300
+230940,Novo Oriente,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23094040] Secretaria de Obras e Infraestrutura - SOI,ÌÅgua e Esgoto; Res SÌ_lidos,31.19,100,10.48,28.24,31.19,28.24,14.64,0.82,2309409
+230945,Ocara,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23094540] SECRETARIA DE INFRAESTRUTURA E DESENVOLVIMENTO URBANO - SEMID,ÌÅgua e Esgoto; Res SÌ_lidos,14.24,100,15.87,9.76,14.24,9.76,3.09,0.22,2309458
+230950,OrÌ_s,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2309508
+230960,Pacajus,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,20.1,100,15.56,3.28,20.1,3.28,2.69,1.81,2309607
+230980,Pacoti,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,75.71,100,7.51,59.95,75.71,59.95,24.51,0.19,2309805
+230990,PacujÌÁ,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2309904
+231000,Palhano,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23100040] PREFEITURA MUNICIPAL DE PALHANO - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2310001
+231010,PalmÌÁcia,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,27.92,100,13.07,18.63,27.92,18.63,7.69,1.21,2310100
+231030,Parambu,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23103040] Secretaria de Infraestrutura e Desenvolvimento EconÌ«mico - SEINFRA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2310308
+231040,Paramoti,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23104040] Secretaria de Desenvolvimento AgrÌÁrio e Meio Ambiente - SEDAMA,ÌÅgua e Esgoto; Res SÌ_lidos,12.11,100,14.18,15.39,12.11,15.39,7.54,0.2,2310407
+231050,Pedra Branca,CE,2015,[23105011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE; [23105040] SECRETARIA DE DESENVOLVIMENTO URBANO E MEIO AMBIENTE - SEDUMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2310506
+231060,Penaforte,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2310605
+231070,Pentecoste,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23107040] PREFEITURA MUNICÌçPAL DE PENTECOSTE - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2310704
+231080,Pereiro,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2310803
+231090,Piquet Carneiro,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23109040] SECRETARIA MUNICIPAL DE INFRAESTRUTURA E RECURSOS HIDRICOS - SMIRH,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2310902
+231095,Pires Ferreira,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2310951
+231100,Poranga,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23110040] Prefeitura Municipal - PMP,ÌÅgua e Esgoto; Res SÌ_lidos,24.79,100,13.82,20.41,24.79,20.41,13.26,0.28,2311009
+231110,Porteiras,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,13.44,100,12.67,14.06,13.44,14.06,5.78,0.47,2311108
+231120,Potengi,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23112040] Prefeitura Municipal de Potengi - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2311207
+231123,Potiretama,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2311231
+231126,QuiterianÌ_polis,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23112640] Prefeitura Municipal de QuiterianÌ_polis - PMQ,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2311264
+231130,QuixadÌÁ,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23113040] SECRETARIA DESENVOLVIMENTO URBANO E MEIO AMBIENTE - SEDUMA,ÌÅgua e Esgoto; Res SÌ_lidos,14.23,100,20.27,15.86,14.23,15.86,11.31,0.99,2311306
+231135,QuixelÌ«,CE,2015,[23113511] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE; [23113540] Secretaria de Infraestrutura - Seinfra,ÌÅgua e Esgoto; Res SÌ_lidos,52.73,100,6.39,77.57,52.73,77.57,30.17,0.05,2311355
+231140,Quixeramobim,CE,2015,[23114011] ServiÌ_o AutÌ«nomo de ÌÅguas e Esgoto de Quixeramobim - SAAE; [23114040] PREFEITURA MUNICIPAL DE QUIXERAMOBIM - CE,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2311405
+231150,QuixerÌ©,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23115040] SECRETARIA DE DESENVOLVIMENTO URBANO. MEIO AMBIENTE E INFRAESTRUTURA - PMQ,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2311504
+231160,RedenÌ_Ì£o,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,2.81,100,7.38,3.55,2.81,3.55,2.03,0.13,2311603
+231170,Reriutaba,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2311702
+231180,Russas,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,24.42,100,10.3,22.13,24.42,22.13,14.25,0.45,2311801
+231190,Saboeiro,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23119040] Prefeitura Municipal de Saboeiro - PMS,ÌÅgua e Esgoto; Res SÌ_lidos,3.41,100,10.51,2.4,3.41,2.4,1.29,0,2311900
+231195,Salitre,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,NA,NA,14.08,12.82,NA,12.82,5.2,NA,2311959
+231200,Santana do AcaraÌ_,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2312007
+231210,Santana do Cariri,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23121040] Prefeitura Municipal de Santana do Cariri - PMSC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2312106
+231220,Santa QuitÌ©ria,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23122040] SECRETARIA DE OBRAS E URBANISMO - SEOURB,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2312205
+231230,SÌ£o Benedito,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23123040] PREFEITURA MUNICIPAL DE SÌÄO BENEDITO - SEINFRA,ÌÅgua e Esgoto; Res SÌ_lidos,21.97,100,9.62,24.66,21.97,24.66,13.71,0.3,2312304
+231250,SÌ£o JoÌ£o do Jaguaribe,CE,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2312502
+231270,Senador Pompeu,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2312700
+231290,Sobral,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23129011] ServiÌ_o de ÌÅgua e Esgoto de Sobral - SAAE; [23129040] Prefeitura Municipal de Sobral - PMS,ÌÅgua; ÌÅgua e Esgoto; Res SÌ_lidos,33.42,100,9.09,90.96,33.42,90.96,88.25,0.26,2312908
+231300,SolonÌ_pole,CE,2015,[23130011] Prefeitura Municipal de SolonÌ_pole - PMS; [23130040] Prefeitura Municipal de SolonÌ_pole - PMS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2313005
+231310,Tabuleiro do Norte,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua e Esgoto,9.02,100,6.23,10.47,9.02,10.47,6.74,0.17,2313104
+231320,Tamboril,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2313203
+231325,Tarrafas,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23132540] Prefeitura Municipal - PM,ÌÅgua e Esgoto; Res SÌ_lidos,6.93,100,16.55,7.17,6.93,7.17,2.11,0.98,2313252
+231330,TauÌÁ,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23133040] Secretaria de InfraEstrutura e Desenvolvimento Urbano - SEINFRA,ÌÅgua e Esgoto; Res SÌ_lidos,9.93,100,14.28,10.28,9.93,10.28,5.95,0.5,2313302
+231335,TejuÌ_uoca,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2313351
+231340,TianguÌÁ,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23134040] Prefeitura Municipal de tianguÌÁ - PM,ÌÅgua e Esgoto; Res SÌ_lidos,21.85,100,12.64,23.51,21.85,23.51,15.64,0.25,2313401
+231360,Ubajara,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23136040] Prefeitura Municipal - PM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2313609
+231370,Umari,CE,2015,[23137011] Prefeitura Municipal de Umari - PMU; [23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23137040] PREFEITURA MUNICIPAL DE UMARI - PMU,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,21.98,92.96,0,92.96,59.36,0.69,2313708
+231375,Umirim,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23137540] secretaria de infraestrutura - seinfra,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2313757
+231380,Uruburetama,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2313807
+231395,Varjota,CE,2015,[23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23139540] SECRETARIA DE OBRAS E SERVIÌàOS PÌ_BLICOS - SEOSP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2313955
+231400,VÌÁrzea Alegre,CE,2015,[23140011] Prefeitura Municipal de VÌÁrzea Alegre - PMVA; [23044000] Companhia de ÌÅgua e Esgoto do CearÌÁ - CAGECE; [23140040] Prefeitura Municipal de VÌÁrzea Alegre - PMVA,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,4.22,71.86,0,71.86,44.68,NA,2314003
+240010,Acari,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24001040] PREFEITURA MUNICIPAL DE ACARI - PMA,ÌÅgua e Esgoto; Res SÌ_lidos,70.66,100,8.51,100,70.66,100,80.67,0.42,2400109
+240020,AÌ_u,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24002040] Secretaria Adjunta de ServiÌ_os PÌ_blicos - SERVIP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2400208
+240030,Afonso Bezerra,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24003040] SECRETARIA DE OBRAS E SERVIÌàOS URBANOS - SOSUR,ÌÅgua e Esgoto; Res SÌ_lidos,78.25,100,7.82,79.11,78.25,79.11,42.01,0.07,2400307
+240040,ÌÅgua Nova,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24004040] SECRETARIA MUNICIPAL DE INFRA - ESTRUTUTA E SERVIÌàOS URBANOS - SEMISU,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2400406
+240050,Alexandria,RN,2015,[24005011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto de Alexandria - SAAE,ÌÅgua e Esgoto,43.32,0,7.57,58.5,0,58.5,39.8,0,2400505
+240060,Almino Afonso,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24006040] PREFEITURA MUNICIPAL DE ALMINO AFONSO - PMAA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2400604
+240070,Alto do Rodrigues,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24007040] Prefeitura Municipal - PM,ÌÅgua e Esgoto; Res SÌ_lidos,1.78,100,25.78,1.96,1.78,1.96,1.42,0.02,2400703
+240080,Angicos,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2400802
+240090,AntÌ«nio Martins,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24009040] PREFEITURA MUNICIPAL DE ANTONIO MARTINS - PMAA,ÌÅgua e Esgoto; Res SÌ_lidos,NA,NA,21.74,38.69,NA,38.69,21.19,NA,2400901
+240100,Apodi,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24010040] PREFEITURA MUNICIPAL DE APODI - PMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2401008
+240110,Areia Branca,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24011040] Prefeitura Municipal de Areia Branca - PMAB,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2401107
+240130,Augusto Severo,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24013040] Prefeitural Municipal de Campo Grande - PMAS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2401305
+240145,BaraÌ_na,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2401453
+240150,Barcelona,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24015040] Secretaria Municipal de Servios Urbanos. Obras e Viao - SMSUOV,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2401503
+240160,Bento Fernandes,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24016040] SECRETARIA MUNICIPAL DE OBRAS TRANSPORTES E SERVIÌàOS URBANOS - SMOTS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2401602
+240165,BodÌ_,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24016540] Prefeitura Municipal de BodÌ_ - RN,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2401651
+240170,Bom Jesus,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2401701
+240180,Brejinho,RN,2015,[24018011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE; [24018040] PREFEITURA MUNICIPAL DE BREJINHO - PMB,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2401800
+240185,CaiÌ_ara do Norte,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2401859
+240190,CaiÌ_ara do Rio do Vento,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua e Esgoto,27.11,100,20.07,33.25,27.11,33.25,25.39,0.02,2401909
+240200,CaicÌ_,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24020040] PREFEITURA MUNICIPAL DE CAICÌÒ - RN,ÌÅgua e Esgoto; Res SÌ_lidos,7.15,100,6.13,9.22,7.15,9.22,8.45,0.07,2402006
+240210,Campo Redondo,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua e Esgoto,16.58,100,11.32,19.6,16.58,19.6,9.92,0.09,2402105
+240230,CaraÌ_bas,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2402303
+240240,CarnaÌ_ba dos Dantas,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24024040] PREFEITURA MUNICIPAL DE CARNAÌ_BA DOS DANTAS - PMCD,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2402402
+240250,Carnaubais,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua e Esgoto,67.58,100,17.61,45.87,67.58,45.87,22.35,0.05,2402501
+240270,Cerro CorÌÁ,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2402709
+240280,Coronel Ezequiel,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24028040] Prefeitura Municipal de Coronel Ezequiel - PMCE,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2402808
+240290,Coronel JoÌ£o Pessoa,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24029040] CONSTRUTORA SERRA NOVA - CSN,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2402907
+240300,Cruzeta,RN,2015,[24030011] Prefeitura Municipal de Cruzeta - PMC; [24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24030040] Secretaria Municipal de Infraestrutura. ServiÌ_os Urbano - SMISU,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,12.81,89.79,0,89.79,73.49,0.08,2403004
+240310,Currais Novos,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua e Esgoto,72.31,100,9.44,75.68,72.31,75.68,67.03,0.19,2403103
+240320,Doutor Severiano,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua e Esgoto,25.91,100,24.69,45.19,25.91,45.19,19.38,0.02,2403202
+240330,Encanto,RN,2015,[24033011] Prefeitura Municipal de Encanto - PME; [24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24033040] PREFEITURA MUNICIPAL  DE ENCANTO - PME,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,8.64,99.34,0,99.34,100,1,2403301
+240340,Equador,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2403400
+240370,Felipe Guerra,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2403707
+240375,Fernando Pedroza,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2403756
+240380,FlorÌ¢nia,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua e Esgoto,74.15,100,9.03,100,74.15,100,76.54,0.18,2403806
+240390,Francisco Dantas,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2403905
+240400,Frutuoso Gomes,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24040040] PREFEITURA MUNICIPAL DE FRUTUOSO GOMES - PMFG,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2404002
+240410,Galinhos,RN,2015,[24041040] Prefeitura Municipal de Galinhos - PMG,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2404101
+240430,Governador Dix-Sept Rosado,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2404309
+240440,Grossos,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2404408
+240450,GuamarÌ©,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24045040] SECRETARIA MUNICIPAL DE OBRAS E SERVIÌàOS URBANOS - SEMOSU,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2404507
+240460,Ielmo Marinho,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24046040] Secretaria de Obras e ServiÌ_os Urbanos - SEMO,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2404606
+240470,IpanguaÌ_u,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24047040] Prefeitura Municipal de IpanguaÌ_u - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2404705
+240480,Ipueira,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24048040] PREFEITURA MUNICIPAL DE IPUEIRA - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2404804
+240485,ItajÌÁ,RN,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2404853
+240490,ItaÌ_,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2404903
+240500,JaÌ_anÌ£,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24050040] Prefeitura Municipal de JaÌ_ana - PMJ,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2405009
+240510,JandaÌ_ra,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2405108
+240520,JanduÌ_s,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2405207
+240530,JanuÌÁrio Cicco,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2405306
+240540,Japi,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2405405
+240550,Jardim de Angicos,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2405504
+240560,Jardim de Piranhas,RN,2015,[24056011] Prefeitura Municipal de Jardim de Piranhas - PMJP; [24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24056040] MUNICÌçPIO DE JARDIM DE PIRANHAS - PMJP,Esgoto; ÌÅgua; Res SÌ_lidos,66.89,0,20,100,0,100,78.45,0.02,2405603
+240570,Jardim do SeridÌ_,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24057040] Prefeitura Municipal de Jardim do SeridÌ_ - PMJS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2405702
+240580,JoÌ£o CÌ¢mara,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24058040] PREFEITURA MUNICIPAL DE JOÌÄO CAMARA - PMJC,ÌÅgua e Esgoto; Res SÌ_lidos,27.78,100,8.85,37.99,27.78,37.99,26.71,0.02,2405801
+240590,JoÌ£o Dias,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24059040] Prefeitura Municipal de JoÌ£o Dias - PMJD,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2405900
+240600,JosÌ© da Penha,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua e Esgoto,9.07,100,6.64,11.31,9.07,11.31,6.83,0.01,2406007
+240610,Jucurutu,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24061040] SecretÌÁria de ServiÌ_os Urbanos - SSU,ÌÅgua e Esgoto; Res SÌ_lidos,24.05,100,8.71,34.09,24.05,34.09,20.36,2.21,2406106
+240620,Lagoa d Anta,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2406205
+240630,Lagoa de Pedras,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24063040] SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE - SMAMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2406304
+240640,Lagoa de Velhos,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2406403
+240650,Lagoa Nova,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24065040] PREFEITURA MUNICIPAL DE LAGOA NOVA - PMLN,ÌÅgua e Esgoto; Res SÌ_lidos,46.78,100,6.71,67.87,46.78,67.87,33.01,0.09,2406502
+240660,Lagoa Salgada,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2406601
+240670,Lajes,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24067040] Secretaria de Obras e ServiÌ_os Urbanos - SEMOS,ÌÅgua e Esgoto; Res SÌ_lidos,59.57,100,15.43,71.3,59.57,71.3,55.41,0.13,2406700
+240680,Lajes Pintadas,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua e Esgoto,55.23,100,9.29,60.75,55.23,60.75,31.48,0.02,2406809
+240690,LucrÌ©cia,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24069040] PREFEITURA MUNICIPAL DE LUCRECIA - PML,ÌÅgua e Esgoto; Res SÌ_lidos,91.32,100,6.19,100,91.32,100,62.75,0.06,2406908
+240700,LuÌ_s Gomes,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2407005
+240710,MacaÌ_ba,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24071040] PREFEITURA MUNICIPAL DE MACAÌçBA - PMM,ÌÅgua e Esgoto; Res SÌ_lidos,4.15,100,39.72,5.07,4.15,5.07,3.11,6.02,2407104
+240720,Macau,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24072040] Prefeitura Municipal - PM,ÌÅgua e Esgoto; Res SÌ_lidos,75.53,100,6.32,86.78,75.53,86.78,65.83,0.24,2407203
+240725,Major Sales,RN,2015,[24072540] Prefeitura Municipal de Major Sales - PMMS,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2407252
+240730,Marcelino Vieira,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24073040] Prefeitura Municipal de Marcelino Vieira - PMMV,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2407302
+240740,Martins,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24074040] Prefeitura Municipal de Martins - PMM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2407401
+240760,Messias Targino,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2407609
+240780,Monte Alegre,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua e Esgoto,6.65,100,7.77,12.81,6.65,12.81,5.57,0.01,2407807
+240790,Monte das Gameleiras,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2407906
+240800,MossorÌ_,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24080040] SECRETARIA DE SERVIÌàOS URBANOS - SEMSUR,ÌÅgua e Esgoto; Res SÌ_lidos,42.8,100,6.51,49.2,42.8,49.2,44.92,0.19,2408003
+240830,Nova Cruz,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24083040] PREFEITURA MUNICIPAL DE NOVA CRUZ - PMNC,ÌÅgua e Esgoto; Res SÌ_lidos,11.64,100,12.44,28.11,11.64,28.11,19.31,0.11,2408300
+240840,Olho-D ÌÅGUA do Borges,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2408409
+240850,Ouro Branco,RN,2015,[24085011] Prefeitura Municipal de Ouro Branco - pmob; [24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24085040] Municipio de Ouro Branco - PMOB,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,20.83,59.22,0,59.22,51.32,NA,2408508
+240860,ParanÌÁ,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24086040] Prefeitura Municipal de ParanÌÁ - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2408607
+240870,ParaÌ_,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24087040] SECRETARIA MUNICIPAL DE URBANISMO. OBRAS E TRANSPORTES - SMUOT,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2408706
+240880,Parazinho,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2408805
+240890,Parelhas,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24089040] PREFEITURA MUNICIPAL DE PARELHAS - PMPARELHAS,ÌÅgua e Esgoto; Res SÌ_lidos,77.16,100,7.52,98.64,77.16,98.64,82.79,0.07,2408904
+240910,Passa e Fica,RN,2015,[24091011] Prefeitura Municipal de Passa e Fica - PMPeF; [24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24091040] PREFEITURA MUNICIPAL DE PASSA E FICA - PMPF,Esgoto; ÌÅgua; Res SÌ_lidos,100,85.53,4.87,91.03,100,91.03,55.39,4.74,2409100
+240920,Passagem,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2409209
+240930,Patu,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2409308
+240933,Santa Maria,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2409332
+240940,Pau dos Ferros,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24094040] Prefeitura Municipal de Pau dos Ferros - PMPF,ÌÅgua e Esgoto; Res SÌ_lidos,9.75,100,7.99,13.71,9.75,13.71,12.63,0.27,2409407
+240950,Pedra Grande,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24095040] Secretaria Municipal de Obras e ServÌ_os Urbanos - SEMOSURB,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2409506
+240960,Pedra Preta,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2409605
+240970,Pedro Avelino,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua e Esgoto,58.62,100,10.4,80.28,58.62,80.28,46.13,0.05,2409704
+240990,PendÌ»ncias,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua e Esgoto,34.58,100,20.96,36.37,34.58,36.37,28.63,0.53,2409902
+241000,PilÌµes,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24100040] Prefeitura Municipal de PilÌµes-RN - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2410009
+241010,PoÌ_o Branco,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2410108
+241020,Portalegre,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24102040] Prefeitura Municipal de Portalegre - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2410207
+241025,Porto do Mangue,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24102540] PREFEITURA MUNICIPAL - PMPM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2410256
+241030,Presidente Juscelino,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2410306
+241040,Pureza,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2410405
+241050,Rafael Fernandes,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24105040] Prefeitura Municipal de Rafael Fernandes - PMRF,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2410504
+241060,Rafael Godeiro,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2410603
+241070,Riacho da Cruz,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2410702
+241080,Riacho de Santana,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24108040] PREFEITURA MUNICIPAL DE RIACHO DE SANTANA - PMRS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2410801
+241090,Riachuelo,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua e Esgoto,69.8,100,3.93,89.03,69.8,89.03,54.7,0.12,2410900
+241100,Rodolfo Fernandes,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2411007
+241105,Tibau,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2411056
+241110,Ruy Barbosa,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2411106
+241120,Santa Cruz,RN,2015,[24112011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE; [24112040] Prefeitura Municipal de Santa Cruz - RN - PMSC,ÌÅgua e Esgoto; Res SÌ_lidos,77.13,100,7.42,93.93,77.13,93.93,80.03,0.21,2411205
+241140,Santana do Matos,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2411403
+241142,Santana do SeridÌ_,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24114240] SECRETARIA MUNICIPAL DE INFRA ESTRUTURA - SMIE,ÌÅgua e Esgoto; Res SÌ_lidos,97.99,100,4.14,100,97.99,100,65.46,0.16,2411429
+241150,Santo AntÌ«nio,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24115040] PREFEITURA MUNICIPAL DE SANTO ANTONIO/RN - PFMSA,ÌÅgua e Esgoto; Res SÌ_lidos,14.64,100,10.2,13.36,14.64,13.36,8.59,0.02,2411502
+241160,SÌ£o Bento do Norte,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2411601
+241170,SÌ£o Bento do TrairÌ_,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24117040] Prefeitura Municipal de SÌ£o Bento doTrairi - RN,ÌÅgua e Esgoto; Res SÌ_lidos,71.17,100,8.68,100,71.17,100,48.24,0.01,2411700
+241180,SÌ£o Fernando,RN,2015,[24118011] Prefeitura Municipal de SÌ£o Fernando - PMSF; [24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,Esgoto; ÌÅgua,94.06,100,12.11,90.26,94.06,90.26,60.97,0.04,2411809
+241190,SÌ£o Francisco do Oeste,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24119040] Prefeitura Municipal de SÌ£o Francisco do Oeste - PMSFO,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2411908
+241210,SÌ£o JoÌ£o do Sabugi,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24121040] Secretaria Municipal de Infraestrutura e ServiÌ_os Urbanos - SMIS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2412104
+241230,SÌ£o JosÌ© do Campestre,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2412302
+241240,SÌ£o JosÌ© do SeridÌ_,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua e Esgoto,79.4,100,7.31,79.32,79.4,79.32,61.9,0.06,2412401
+241250,SÌ£o Miguel,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24125040] Prefeitura Municipal de SÌ£o Miguel - PMSM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2412500
+241255,SÌ£o Miguel do Gostoso,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2412559
+241260,SÌ£o Paulo do Potengi,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua e Esgoto,14.92,100,12.45,21.29,14.92,21.29,15.41,0.22,2412609
+241270,SÌ£o Pedro,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2412708
+241280,SÌ£o Rafael,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua e Esgoto,61.74,100,14.54,87.33,61.74,87.33,59.63,0.19,2412807
+241290,SÌ£o TomÌ©,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua e Esgoto,33.58,100,7.52,51.72,33.58,51.72,28.38,0.04,2412906
+241300,SÌ£o Vicente,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2413003
+241310,Senador ElÌ_i de Souza,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2413102
+241330,Serra de SÌ£o Bento,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2413300
+241335,Serra do Mel,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2413359
+241340,Serra Negra do Norte,RN,2015,[24134011] Prefeitura Municipal de Serra Negra do Norte - PMSNN; [24134040] Secretaria Municipal de Infraestrutura e ServiÌ_os PÌ_blicos - SMISP,ÌÅgua e Esgoto; Res SÌ_lidos,86.06,100,8.72,99.69,86.06,99.69,70.26,0.06,2413409
+241350,Serrinha,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24135040] Prefeitura Municipal de Serrinha - PMS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2413508
+241355,Serrinha dos Pintos,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2413557
+241360,Severiano Melo,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2413607
+241370,SÌ_tio Novo,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2413706
+241380,Taboleiro Grande,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24138040] SECRETARIA MUNICIPAL DE OBRAS E URBANISMO - SMOU,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2413805
+241390,Taipu,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2413904
+241400,TangarÌÁ,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2414001
+241410,Tenente Ananias,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24141040] Prefeitura Municipal - PM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2414100
+241415,Tenente Laurentino Cruz,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2414159
+241430,TimbaÌ_ba dos Batistas,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2414308
+241440,Touros,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2414407
+241445,Triunfo Potiguar,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2414456
+241450,Umarizal,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2414506
+241460,Upanema,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24146040] PREFEITURA MUNICIPAL DE UPANEMA - PMU,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2414605
+241470,VÌÁrzea,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24147040] Prefeitura Municipal de VÌÁrzea - PMV,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2414704
+241475,Venha-Ver,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24147540] PREFEITURA MUNICIPAL DE VENHA-VER - PMVV,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2414753
+241480,Vera Cruz,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2414803
+241490,ViÌ_osa,RN,2015,[24081000] Companhia de ÌÅguas e Esgotos do Rio Grande do Norte - CAERN; [24149040] PREFEITURA MUNICIPAL DE VIÌàOSA - PMV,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2414902
+250010,ÌÅgua Branca,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2500106
+250020,Aguiar,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25002040] Prefeitura Municipal de Aguiar - PMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2500205
+250053,Alcantil,PB,2015,[25005311] Prefeitura Municipal de Alcantil - PMA; [25005340] Secretaria de Infraestrutura - SIE,ÌÅgua e Esgoto; Res SÌ_lidos,59.76,0,7.26,99.02,0,99.02,99.52,0,2500536
+250057,AlgodÌ£o de JandaÌ_ra,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2500577
+250070,SÌ£o JoÌ£o do Rio do Peixe,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25007040] Prefeitura Municipal de SÌ£o JoÌ£o do Rio do Peixe-PB - PMSJRP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2500700
+250073,Amparo,PB,2015,[25007311] Prefeitura Municipal de Amparo - PMA; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,Esgoto; ÌÅgua,50.97,56.25,9.12,88.71,28.67,88.71,45.12,0.56,2500734
+250077,Aparecida,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25007740] Prefeitura Municpal de Aparecida - PMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2500775
+250090,Arara,PB,2015,[25009011] Prefeitura Municipal de Arara - PMA; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25009040] Prefeitura Municipal de Arara - PMA,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,7.31,100,0,100,100,0,2500908
+250100,Araruna,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25010040] PREFEITURA MUNICIPAL DE ARARUNA - PMA,ÌÅgua e Esgoto; Res SÌ_lidos,100,100,10.11,79.54,100,79.54,39.3,0.37,2501005
+250115,Areia de BaraÌ_nas,PB,2015,[25011511] Prefeitura Municipal de Areia de Baraunas - PMAB; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25011540] Prefeitura Municipal de Areia de BaraÌ_nas - PMAB,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,7.41,100,0,100,75.11,NA,2501153
+250120,Areial,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25012040] Prefeitura Municipal - PMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2501203
+250130,Aroeiras,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25013040] Prefeitura Municipal de Aroeiras - PMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2501302
+250135,AssunÌ_Ì£o,PB,2015,[25013540] PREFEITURA MUNICIPAL DE ASSUNÌàÌÄO - PMA,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2501351
+250150,Bananeiras,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2501500
+250153,BaraÌ_na,PB,2015,[25015340] PREFEITURA MUNICIPAL DE BARAÌ_NA - PMB,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2501534
+250157,Barra de Santana,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25015740] Prefeitura Municipal de Barra de Santana - PMBS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2501575
+250160,Barra de Santa Rosa,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2501609
+250170,Barra de SÌ£o Miguel,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25017040] PREFEITURA MUNICIPAL DE BARRA DE SÌÄO MIGUEL - PMBSM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2501708
+250200,BelÌ©m do Brejo do Cruz,PB,2015,[25020011] Prefeitura Municipal de BelÌ©m do Brejo do Cruz - PMBBC; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25020040] PREFEITURA MUNICIPAL DE BELÌäM DO BREJO DO CRUZ - PMBBC,Esgoto; ÌÅgua; Res SÌ_lidos,85.99,0,7.69,100,0,100,100,0,2502003
+250205,Bernardino Batista,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2502052
+250210,Boa Ventura,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25021040] prefeitura municipal de boa ventura - PMBV,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2502102
+250215,Boa Vista,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25021540] PREFEITURA MUNICIPAL DE BOA VISTA - PMBV,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2502151
+250220,Bom Jesus,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25022040] Prefeitura Municipal de Bom Jesus - PMBJ,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2502201
+250230,Bom Sucesso,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25023040] SECRETARIA DE INFRAESTRUTURA - SIE,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2502300
+250240,Bonito de Santa FÌ©,PB,2015,[25024011] Prefeitura Municipal de Bonito de Santa FÌ© - PMBSF; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25024040] Prefeitura Municipal de Bonito de Santa FÌ© - PMBSF,Esgoto; ÌÅgua; Res SÌ_lidos,46.32,0,8,99.98,0,99.98,72.75,NA,2502409
+250250,BoqueirÌ£o,PB,2015,[25025011] Prefeitura Municipal de BoqueirÌ£o - PMB; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25025040] Prefeitura Municipal de BoqueirÌ£o - PMB,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,8.57,99.2,0,99.2,70.53,0,2502508
+250260,Igaracy,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25026040] Secretaria de Infraestrutura - Sec Infraest,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2502607
+250280,Brejo do Cruz,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2502805
+250290,Brejo dos Santos,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2502904
+250310,Cabaceiras,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2503100
+250330,Cachoeira dos Ìçndios,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25033040] Prefeitura Municipal de Cachoeira Dos Ìçndios - PMCÌç,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2503308
+250340,Cacimba de Areia,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25034040] Prefeitura Municipal de Cacimba de Areia - PMCA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2503407
+250350,Cacimba de Dentro,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25035040] PREFEITURA MUNICIPAL DE CACIMBA DE DENTRO - PMCD,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2503506
+250355,Cacimbas,PB,2015,[25035511] Prefeitura Municipal de Cacimbas - PMC; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25035540] Prefeitura Municipal de Cacimbas - PMC,Esgoto; ÌÅgua; Res SÌ_lidos,NA,0,10,99.47,NA,99.47,47.81,NA,2503555
+250360,CaiÌ_ara,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2503605
+250370,Cajazeiras,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25037040] Secretaria Executiva de Meio Ambiente - SEMAC,ÌÅgua e Esgoto; Res SÌ_lidos,35.59,100,7.43,18.6,35.59,18.6,15.12,0.06,2503704
+250375,Cajazeirinhas,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25037540] PREFEITURA MUNICIPAL DE CAJAZEIRINHAS - PMC,ÌÅgua e Esgoto; Res SÌ_lidos,23.84,100,29.39,38.03,23.84,38.03,12.54,0,2503753
+250390,CamalaÌ_,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25039040] Prefeitura Municipal de CamalaÌ_/PB - PM,ÌÅgua e Esgoto; Res SÌ_lidos,15.93,100,7.73,11.84,15.93,11.84,5.95,0,2503902
+250400,Campina Grande,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25040040] SECRETARIA DE SERVIÌàOS URBANOS E MEIO AMBIENTE - SESUMA,ÌÅgua e Esgoto; Res SÌ_lidos,100,74.58,3.5,92.61,100,92.61,88.28,0.02,2504009
+250407,CaraÌ_bas,PB,2015,[25040711] Prefeitura Municipal de CaraÌ_bas - PMC; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,Esgoto; ÌÅgua,100,28.57,24.71,95.38,100,95.38,56.33,NA,2504074
+250410,Carrapateira,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25041040] PREFEITURA MUNICIPAL DE CARRAPATEIRA - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2504108
+250415,Casserengue,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25041540] Prefeitura Municipal de Casserengue - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2504157
+250420,Catingueira,PB,2015,[25042011] Prefeitura Municipal de Catingueira - PMC; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25042040] Prefeitura Municipal de Catingueira - PMC,Esgoto; ÌÅgua; Res SÌ_lidos,100,66.67,18.47,58.32,100,58.32,34.96,NA,2504207
+250430,CatolÌ© do Rocha,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25043040] Prefeitura Municipal de CatolÌ© do Rocha PB - PMCR,ÌÅgua e Esgoto; Res SÌ_lidos,41.23,100,11.39,25.93,41.23,25.93,19.23,0.02,2504306
+250435,CaturitÌ©,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25043540] Secretaria Municipal de Infraestrutura - SEINFRA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2504355
+250440,ConceiÌ_Ì£o,PB,2015,[25044011] Prefeitura Municipal de ConceiÌ_Ì£o - PMC; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25044040] Prefeitura Municipal de ConceiÌ_Ì£o - PMC,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,28.57,63.87,0,63.87,39.77,NA,2504405
+250450,Condado,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2504504
+250470,Congo,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25047040] PREFEITURA MUNICIPAL DE CONGO - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2504702
+250480,Coremas,PB,2015,[25048040] Prefeitura Municipal Coremas - PM,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2504801
+250485,Coxixola,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25048540] PREFEITURA MUNICIPAL DE COXIXOLA - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2504850
+250500,Cubati,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua e Esgoto,23.09,100,6.15,12.91,23.09,12.91,8.97,0.03,2505006
+250510,CuitÌ©,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2505105
+250530,Curral Velho,PB,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2505303
+250535,DamiÌ£o,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25053540] Prefeitura Municipal de DamiÌ£o - PMD,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2505352
+250540,Desterro,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25054040] Prefeitura Municipal de Desterro - PMD,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2505402
+250550,Vista Serrana,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2505501
+250560,Diamante,PB,2015,[25056011] Prefeitura Municipal de Diamante - PMD; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25056040] PREFEITURA MUNICIPAL DE DIAMANTE - PMD,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,11.68,99.89,0,99.89,58.11,NA,2505600
+250570,Dona InÌ»s,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25057040] SECRETARIA MUNICIPA DE INFRAESTRUTURA - SMIE,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2505709
+250590,Emas,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25059040] PREFEITURA MUNICIPAL DE EMAS - PME,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2505907
+250600,EsperanÌ_a,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25060040] Prefeitura Municipal de EsperanÌ_a - pb,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2506004
+250610,Fagundes,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25061040] PREFEITURA MUNICIPAL DE FAGUNDES - PMF,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2506103
+250620,Frei Martinho,PB,2015,[25062011] Prefeitura Municipal de Frei Martinho - PMFM; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25062040] PREFEITURA MUNICIPAL DE FREI MARTINHO - PMFM,Esgoto; ÌÅgua; Res SÌ_lidos,100,100,15.07,98.26,100,98.26,99.93,NA,2506202
+250625,Gado Bravo,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2506251
+250650,GurjÌ£o,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2506509
+250660,Ibiara,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25066040] Prefeitura Municipal de Ibiara - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2506608
+250670,Imaculada,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25067040] Prefeitura Municipal de Imaculada - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2506707
+250680,IngÌÁ,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2506806
+250690,Itabaiana,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2506905
+250700,Itaporanga,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua e Esgoto,70.66,100,7.17,31.64,70.66,31.64,24.05,0.13,2507002
+250720,Itatuba,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25072040] Prefeitura Municipal de Itatuba - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2507200
+250740,JericÌ_,PB,2015,[25074011] Prefeitura Municipal de JericÌ_ - PMJ; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25074040] SECRETARIA MUNICIPAL DE SAUDE - SMS,Esgoto; ÌÅgua; Res SÌ_lidos,85.72,0,100,99.83,0,99.83,62.63,0,2507408
+250770,Juazeirinho,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2507705
+250780,Junco do SeridÌ_,PB,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2507804
+250800,Juru,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25080040] PREFEITURA MUNICIPAL DE JURU - PMJ,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2508000
+250810,Lagoa,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2508109
+250830,Lagoa Seca,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25083040] Prefeitura Municipal de Lagoa seca - PMLS,ÌÅgua e Esgoto; Res SÌ_lidos,7.65,100,13.28,4.27,7.65,4.27,1.74,0.15,2508307
+250840,Lastro,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25084040] PREFEITURA MUNICIPAL DE LASTRO - PML,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2508406
+250850,Livramento,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2508505
+250855,Logradouro,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25085540] PREFEITURA MUNICIPAL DE LOGRADOURO - PML,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2508554
+250870,MÌ£e D ÌÅgua,PB,2015,[25087011] Prefeitura Municipal de MÌ£e D'ÌÅgua - PMMA; [25087040] Prefeitura Municipal de MÌ£e D`ÌÁgua - PMMD,ÌÅgua e Esgoto; Res SÌ_lidos,75,0,8.17,79.96,0,79.96,55.02,0,2508703
+250880,Malta,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25088040] Prefeitura Municipal de Malta - PMM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2508802
+250900,ManaÌ_ra,PB,2015,[25090011] Prefeitura Municipal de ManaÌ_ra - PMM; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25090040] SECRETARIA DE INFRAESTRUTURA - SMIE,Esgoto; ÌÅgua; Res SÌ_lidos,90.49,24.81,3.14,99.21,22.45,99.21,55.58,0,2509008
+250915,MarizÌ_polis,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2509156
+250920,Massaranduba,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2509206
+250937,Mato Grosso,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25093740] PREFEITURA MUNICIPAL DE MATO GROSSO - PMMG,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2509370
+250939,MaturÌ©ia,PB,2015,[25093911] Prefeitura Municipal de MaturÌ©ia - PMM; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25093940] Prefeitura Municipal de Matureia - PB - PMM,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,14.12,60.6,0,60.6,46.58,NA,2509396
+250940,Mogeiro,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25094040] Prefeitura Municipal de Mogeiro - PMM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2509404
+250950,Montadas,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25095040] PREFEITURA MUNICIPAL DE MONTADAS - PMM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2509503
+250960,Monte Horebe,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2509602
+250970,Monteiro,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua e Esgoto,100,76.97,3.49,89.16,100,89.16,58.55,0.01,2509701
+250990,Natuba,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25099040] PREFEITURA MUNICIPAL DE NATUBA - PMN,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2509909
+251000,Nazarezinho,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2510006
+251010,Nova Floresta,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2510105
+251020,Nova Olinda,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25102040] Prefeitura Municipal de Nova Olinda - PMNO,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2510204
+251030,Nova Palmeira,PB,2015,[25103011] Prefeitura Municipal de Nova Palmeira - PMNP; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25103040] Prefeitura Municipal de Nova Palmeira - PMNP,Esgoto; ÌÅgua; Res SÌ_lidos,NA,0,26.91,91.29,NA,91.29,53.43,NA,2510303
+251040,Olho D ÌÅGUA,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25104040] SECRETARIA MUNICIPAL DE INFRA ESTRUTURA - SMIE,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2510402
+251050,Olivedos,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2510501
+251060,Ouro Velho,PB,2015,[25106011] Prefeitura Municipal de Ouro Velho - PMOV; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25106040] Prefeitura Municipal de Ouro Velho - PMOV,Esgoto; ÌÅgua; Res SÌ_lidos,81.3,0,6.32,70.99,0,70.99,56.24,0,2510600
+251065,Parari,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2510659
+251070,Passagem,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2510709
+251080,Patos,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25108040] Secretaria Municipal de Meio Ambiente - SEMADS,ÌÅgua e Esgoto; Res SÌ_lidos,14.17,100,5.57,6.83,14.17,6.83,6.6,0.07,2510808
+251090,Paulista,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25109040] Prefeitura Municipal de Paulista - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2510907
+251100,Pedra Branca,PB,2015,[25110011] Prefeitura Municipal de Pedra Branca - PMPB; [25110040] Prefeitura Municipal de Pedra Branca - PMPB,ÌÅgua e Esgoto; Res SÌ_lidos,6.4,34.37,12.8,37.3,2.2,37.3,31.61,NA,2511004
+251110,Pedra Lavrada,PB,2015,[25111011] Prefeitura Municipal de Pedra Lavrada - PMPL; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25111040] PREFEITURA MUNICIPAL DE PEDRA LAVRADA - PMPL,Esgoto; ÌÅgua; Res SÌ_lidos,85.98,50,5.88,89.16,42.99,89.16,36.68,0,2511103
+251130,PiancÌ_,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25113040] PREFEITURA MUNICIPAL DE PIANCÌÒ - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2511301
+251140,PicuÌ_,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2511400
+251200,Pocinhos,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25120040] Prefeitura Municipal de Pocinhos - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2512002
+251203,PoÌ_o Dantas,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25120340] Prefeitura Municipal de PoÌ_o Dantas - PMPD,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2512036
+251207,PoÌ_o de JosÌ© de Moura,PB,2015,[25120711] Prefeitura Municipal de PoÌ_o de JosÌ© de Moura - PMPJM; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25120740] Prefeitura Municipal de PoÌ_o de JosÌ© de Moura - PMPJM,ÌÅgua; ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2512077
+251210,Pombal,PB,2015,[25121011] Prefeitura Municipal de Pombal - PMP; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25121040] Prefeitura Municipal de Pombal - PMP,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,26.88,66.37,0,66.37,53.23,0,2512101
+251220,Prata,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2512200
+251230,Princesa Isabel,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2512309
+251240,PuxinanÌ£,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2512408
+251250,Queimadas,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25125040] Prefeitura Municipal de Queimadas - PMQ,ÌÅgua e Esgoto; Res SÌ_lidos,4.06,100,6.87,2.7,4.06,2.7,1.46,0.55,2512507
+251260,QuixabÌÁ,PB,2015,[25126011] Prefeitura Municipal de QuixabÌÁ - PMQ; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25126040] Prefeitura Municipal de Quixaba - PMQ,Esgoto; ÌÅgua; Res SÌ_lidos,32.49,0,17.69,11.3,0,11.3,4.21,NA,2512606
+251270,RemÌ_gio,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25127040] Secretaria  de Agricultura e Meio Ambiente - sama,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2512705
+251274,RiachÌ£o,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25127440] Prefeitura Municipal de RiachÌ£o - PMR,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2512747
+251275,RiachÌ£o do Bacamarte,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2512754
+251278,Riacho de Santo AntÌ«nio,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25127840] Prefeitura Municipal de Riacho de Santo AntÌ«nio - PMRSA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2512788
+251280,Riacho dos Cavalos,PB,2015,[25128011] Prefeitura Municipal de Riacho dos Cavalos - PMRC; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25128040] Prefeitura Municipal de Riacho dos Cavalos - PMRC,Esgoto; ÌÅgua; Res SÌ_lidos,NA,0.2,6.67,96.48,NA,96.48,99.71,0,2512804
+251300,Salgadinho,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25130011] Prefeitura Municipal de Salgadinho - PMS; [25130040] PREFEITURA MUNICIPAL DE SALGADINHO - PMS,ÌÅgua; ÌÅgua e Esgoto; Res SÌ_lidos,25.83,100,16.56,52.15,25.83,52.15,17.88,0.44,2513000
+251310,Salgado de SÌ£o FÌ©lix,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25131040] SECRETARIA DE INFRAESTRUTURA - SEINFRA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2513109
+251315,Santa CecÌ_lia,PB,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2513158
+251320,Santa Cruz,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25132040] SECRETARIA MUNICIPAL DE INFRAESTRUTURA URBANA - SEMIU,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2513208
+251330,Santa Helena,PB,2015,[25133011] Prefeitura Municipal de Santa Helena - PMSH; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25133040] PREFEITURA MUNICIPAL DE SANTA HELENA - PMSH,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,21.18,40.3,0,40.3,28.73,0,2513307
+251335,Santa InÌ»s,PB,2015,[25133511] Prefeitura Municipal de Santa InÌ»s - PMSI; [25133540] Prefeitura Municipal de Santa InÌ»s - PMSI,ÌÅgua e Esgoto; Res SÌ_lidos,81.25,0,10.35,96.42,0,96.42,38.95,NA,2513356
+251340,Santa Luzia,PB,2015,[25134011] Prefeitura Municipal de Santa Luzia - PMSL; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25134040] Prefeitura Municipal de Santa Luzia - PMSL,Esgoto; ÌÅgua; Res SÌ_lidos,100,71.43,10,100,100,100,91.58,NA,2513406
+251350,Santana de Mangueira,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25135040] Prefeitura Municipal de Santana de Mangueira - PMSM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2513505
+251360,Santana dos Garrotes,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25136040] Prefeitura Municipal de Santana dos Garrotes - PMSG,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2513604
+251365,Joca Claudino,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2513653
+251380,Santa Teresinha,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25138040] Prefeitura Municipal de Santa Teresinha - PMST,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2513802
+251385,Santo AndrÌ©,PB,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2513851
+251390,SÌ£o Bento,PB,2015,[25139011] Prefeitura Municipal de SÌ£o Bento - PMSB; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25139040] Prefeitura Municipal de SÌ£o Bento - PMSB,Esgoto; ÌÅgua; Res SÌ_lidos,100,12.86,5.34,95.81,48.32,95.81,77.7,NA,2513901
+251392,SÌ£o Bentinho,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2513927
+251394,SÌ£o Domingos do Cariri,PB,2015,[25139411] Prefeitura Municipal de SÌ£o Domingos do Cariri - PMSDC; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25139440] Prefeitura Municipal de SÌ£o Domingos do Cariri - PMSDC,Esgoto; ÌÅgua; Res SÌ_lidos,100,100,48.33,73.06,100,73.06,31.21,0,2513943
+251396,SÌ£o Domingos de Pombal,PB,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2513968
+251398,SÌ£o Francisco,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25139840] PREITURA MUNICIPAL DE SÌÄO FRANCISCO - PMSF,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2513984
+251400,SÌ£o JoÌ£o do Cariri,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2514008
+251410,SÌ£o JoÌ£o do Tigre,PB,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2514107
+251420,SÌ£o JosÌ© da Lagoa Tapada,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25142040] PREFEITURA MUNICIPAL DE SÌÄO JOSÌä DA LAGOA TAPADA - PMSJLT,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2514206
+251430,SÌ£o JosÌ© de Caiana,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2514305
+251440,SÌ£o JosÌ© de Espinharas,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2514404
+251450,SÌ£o JosÌ© de Piranhas,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25145040] Prefeitura Municipal de SÌ£o JosÌ© de Piranhas - PMSJP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2514503
+251455,SÌ£o JosÌ© de Princesa,PB,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2514552
+251460,SÌ£o JosÌ© do Bonfim,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25146040] SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE - SEMMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2514602
+251465,SÌ£o JosÌ© do Brejo do Cruz,PB,2015,[25146511] Prefeitura Municipal de SÌ£o JosÌ© do Brejo do Cruz - PMSJBC; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25146540] PREFEITURA MUNICIPAL DE SÌÄO JOSÌä DO BREJO DO CRUZ - PMSJBC,Esgoto; ÌÅgua; Res SÌ_lidos,100,100,10.87,39.49,100,39.49,22.47,NA,2514651
+251470,SÌ£o JosÌ© do Sabugi,PB,2015,[25147011] Prefeitura Municipal de SÌ£o JosÌ© do Sabugi - PMSJS; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25147040] Secretaria de Infraestrutura do Municipio - SIM,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,5.25,83.41,0,83.41,53.64,0,2514701
+251480,SÌ£o JosÌ© dos Cordeiros,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2514800
+251490,SÌ£o Mamede,PB,2015,[25149011] Prefeitura Municipal de SÌ£o Mamede - PMSM; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25149040] Prefeitura Municipal de SÌ£o Mamede - PMSM,Esgoto; ÌÅgua; Res SÌ_lidos,77.28,20,6,100,15.46,100,76.52,0,2514909
+251510,SÌ£o SebastiÌ£o de Lagoa de RoÌ_a,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25151040] Prefeitura Municipal de Sao Sebastiao de Lagoa de Roca - PB,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2515104
+251520,SÌ£o SebastiÌ£o do Umbuzeiro,PB,2015,[25152011] Prefeitura Municipal de SÌ£o SebastiÌ£o do Umbuzeiro - PMSSU; [25152040] PREFEITURA MUNICIPAL DE SÌÄO SEBASTIÌÄO DO UMBUZEIRO - PMSSU,ÌÅgua e Esgoto; Res SÌ_lidos,93.7,100,10,94.17,93.7,94.17,66.86,0.01,2515203
+251540,SeridÌ_,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25154040] PREFEITURA MUNICIPAL DE SÌÄO VICENTE DO SERIDÌÒ - PMSVS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2515401
+251550,Serra Branca,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2515500
+251570,Serra Grande,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25157040] Prefeitura Municipal de Serra Grande - PMSG,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2515708
+251600,SolÌ¢nea,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25160040] SecretÌÁria de ServiÌ_os PÌ_blicos. Transportes e Estradas - SEINFRA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2516003
+251610,Soledade,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25161040] Prefeitura Municipal de Soledade - PMS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2516102
+251615,SossÌ»go,PB,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2516151
+251620,Sousa,PB,2015,[25162011] Departamento de ÌÅgua. Esgoto e Saneamento Ambiental de Sousa - DAESA; [25162040] Departamento de ÌÅgua. Esgotos e Saneamento Ambiental de Sousa - DAESA,ÌÅgua e Esgoto; Res SÌ_lidos,90.3,0,17.26,49.44,0,49.44,41.87,0.08,2516201
+251630,SumÌ©,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua e Esgoto,42.57,100,11.59,34.21,42.57,34.21,26.07,0,2516300
+251640,Tacima,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25164040] Prefeitura Municipal Tacima - PMT,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2516409
+251650,TaperoÌÁ,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2516508
+251660,Tavares,PB,2015,[25166011] Prefeitura Municipal de Tavares - PMT; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25166040] SECRETARIA DE OBRAS E SERVIÌàOS URBANOS - SOSU,Esgoto; ÌÅgua; Res SÌ_lidos,38.28,0.78,4.39,99.66,0.3,99.66,46.75,0.01,2516607
+251670,Teixeira,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25167040] Secretaria de Obras e ServiÌ_os Urbanos - sosu,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2516706
+251675,TenÌ_rio,PB,2015,[25167511] Prefeitura Municipal de TenÌ_rio - PMT; [25167540] Prefeitura Municipal de TenÌ_rio - PMT,ÌÅgua e Esgoto; Res SÌ_lidos,0.11,0,10,0.06,0,0.06,0.03,NA,2516755
+251680,Triunfo,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25168040] Prefeitura Municipal de Triunfo - PMT,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2516805
+251690,UiraÌ_na,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25169040] PREFEITURA MUNICIPAL DE UIRAÌ_NA - PMU,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2516904
+251700,Umbuzeiro,PB,2015,[25170011] Prefeitura Municipal de Umbuzeiro - PMU; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25170040] Prefeitura Municipal de Umbuzeiro - PMU,Esgoto; ÌÅgua; Res SÌ_lidos,51.87,0,10,23.59,0,23.59,10.11,0.04,2517001
+251710,VÌÁrzea,PB,2015,[25171011] Prefeitura Municipal de VÌÁrzea - PMV; [25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25171040] Prefeitura Municipal de VÌÁrzea - PB - PMV,Esgoto; ÌÅgua; Res SÌ_lidos,97.79,79.17,8.06,89.42,77.41,89.42,65.53,1.39,2517100
+251720,VieirÌ_polis,PB,2015,[25075000] Companhia de ÌÅguas e Esgotos da ParaÌ_ba - CAGEPA; [25172040] SECRETARIA DE OBRAS E SERVIÌàOS PÌ_BLICOS - SOSP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2517209
+251740,ZabelÌ»,PB,2015,[25174011] Prefeitura Municipal de ZabelÌ» - PMZ; [25174040] Prefeitura Municipal de ZabelÌ» - PMZ,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2517407
+260010,Afogados da Ingazeira,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26001040] SECRETARIA DE INFRAESTRUTURA E SERVIÌàOS  PÌ_BLICOS - PMAI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2600104
+260020,AfrÌ¢nio,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2600203
+260030,Agrestina,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2600302
+260050,ÌÅguas Belas,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26005040] SECRETARIA DE INFRAESTRUTURA - SEINFRA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2600500
+260060,Alagoinha,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26006040] Prefeitura Municipal de Alagoinha - PMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2600609
+260080,Altinho,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2600807
+260100,Angelim,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26010040] Prefeitura Municipal de Angelim - PMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2601003
+260110,Araripina,PE,2015,[26011011] Prefeitura Municipal de Araripina - PMA; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26011040] Prefeitura Municipal de Araripina - PMA,Esgoto; ÌÅgua; Res SÌ_lidos,100,44.08,7.88,70.72,68.17,70.72,42.91,NA,2601102
+260120,Arcoverde,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua e Esgoto,5.37,100,9.63,5.83,5.37,5.83,5.31,0.02,2601201
+260160,BelÌ©m de SÌ£o Francisco,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2601607
+260170,Belo Jardim,PE,2015,[26017011] Prefeitura Municipal de Belo Jardim - PMBJ; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26017040] Prefeitura Municipal de Belo Jardim - PMBJ,Esgoto; ÌÅgua; Res SÌ_lidos,83.08,0,8.64,80.57,0,80.57,70.44,NA,2601706
+260180,BetÌ¢nia,PE,2015,[26018011] Prefeitura Municipal de Betania - PMB; [26116000] Companhia Pernambucana de Saneamento - COMPESA,Esgoto; ÌÅgua,65.25,0,9.19,100,0,100,30.93,0,2601805
+260190,Bezerros,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2601904
+260200,BodocÌ_,PE,2015,[26020011] Prefeitura Municipal de BodocÌ_ - PMB; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26020040] Prefeitura Municipal de BodocÌ_ - PMB,Esgoto; ÌÅgua; Res SÌ_lidos,44.82,100,15.65,100,44.82,100,53.69,NA,2602001
+260210,Bom Conselho,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2602100
+260220,Bom Jardim,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2602209
+260240,BrejÌ£o,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2602407
+260250,Brejinho,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26025040] PREFEITURA MUNICIPAL DE BREJINHO - PMB,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2602506
+260260,Brejo da Madre de Deus,PE,2015,[26026011] Prefeitura Municipal de Brejo da Madre de Deus - PMBMD; [26116000] Companhia Pernambucana de Saneamento - COMPESA,Esgoto; ÌÅgua,100,0,8.77,52.4,0,52.4,40.74,0,2602605
+260280,BuÌ_que,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2602803
+260300,CabrobÌ_,PE,2015,[26030011] Prefeitura Municipal de CabrobÌ_ - PMC; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26030040] Secretaria de Infraestrutua Urbana - SEINFRA,Esgoto; ÌÅgua; Res SÌ_lidos,81.55,0,7.23,100,0,100,64.13,NA,2603009
+260310,Cachoeirinha,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2603108
+260320,CaetÌ©s,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26032040] Prefeitura Municipal de CaetÌ©s - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2603207
+260330,CalÌ_ado,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26033040] Prefeitura Municipal de CalÌ_ado - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2603306
+260340,Calumbi,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2603405
+260350,Camocim de SÌ£o FÌ©lix,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26035040] Prefeitura Municipal de Camocim - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2603504
+260370,Canhotinho,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26037040] Prefeitura Municipal de Canhotinho - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2603702
+260380,Capoeiras,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2603801
+260390,CarnaÌ_ba,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2603900
+260392,Carnaubeira da Penha,PE,2015,[26039211] Prefeitura Municipal de Carnaubeira da Penha - PMCP; [26039240] Prefeitura Municipal - PM,ÌÅgua e Esgoto; Res SÌ_lidos,100,100,10,56.6,100,56.6,25.39,0,2603926
+260410,Caruaru,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26041040] Prefeitura Municipal Caruaru - PMC,ÌÅgua e Esgoto; Res SÌ_lidos,44.33,100,8.81,49.6,44.33,49.6,44.04,0.02,2604106
+260415,Casinhas,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26041540] Prefeitura Muncipal de Casinhas - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2604155
+260430,Cedro,PE,2015,[26043011] Prefeitura Municipal de Cedro - PMC; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26043040] Prefeitura Municipal de Cedro - PMC,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,7.67,100,0,100,58.37,0,2604304
+260450,ChÌ£ Grande,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26045040] Prefeitura Municipal de ChÌ£ Grande - PMCG,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2604502
+260470,Correntes,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2604700
+260490,Cumaru,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2604908
+260500,Cupira,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2605004
+260510,CustÌ_dia,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26051040] Prefeitura Municipal de CustÌ_dia - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2605103
+260515,Dormentes,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26051540] SECRETARIA DE AGRICULTURA. INFRAESTRUTURA. RECURSOS HÌçDRICOS E MEIO AMBIENTE - SEAGRIMA,ÌÅgua e Esgoto; Res SÌ_lidos,53.5,100,9.58,78.08,53.5,78.08,27.71,0.21,2605152
+260530,Exu,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2605301
+260560,Flores,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2605608
+260570,Floresta,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26057040] PREFEITURA MUNICIPAL DE FLORESTA - PMF,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2605707
+260580,Frei Miguelinho,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2605806
+260600,Garanhuns,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua e Esgoto,7.76,100,9.22,11.23,7.76,11.23,10.01,0.01,2606002
+260630,Granito,PE,2015,[26063011] Prefeitura Municipal de Granito - PMG; [26116000] Companhia Pernambucana de Saneamento - COMPESA,Esgoto; ÌÅgua,100,100,10.95,99.41,100,99.41,46.09,NA,2606309
+260640,GravatÌÁ,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua e Esgoto,1.38,100,18.18,2.06,1.38,2.06,1.85,0,2606408
+260650,Iati,PE,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2606507
+260660,Ibimirim,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26066040] Prefeitura Municipla de Ibimirim - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2606606
+260670,Ibirajuba,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26067040] Prefeitura Municipal de Ibirajuba - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2606705
+260690,Iguaraci,PE,2015,[26069011] Prefeitura Municipal de Iguaraci - PMI; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26069040] PREFEITURA MUNICIPAL DE IGUARACY - PMI,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,15,20.65,0,20.65,99.84,0,2606903
+260700,InajÌÁ,PE,2015,[26070011] Prefeitura Municipal de InajÌÁ - PMI,ÌÅgua e Esgoto,31.87,0,12.42,54.89,0,54.89,22.89,NA,2607000
+260710,Ingazeira,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2607109
+260730,Ipubi,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua e Esgoto,19.87,100,8.31,44.69,19.87,44.69,27.46,0,2607307
+260740,Itacuruba,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2607406
+260750,ItaÌ_ba,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26075040] Prefeitura Municipal de ItaÌ_ba - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2607505
+260770,Itapetim,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26077040] Prefeitura Municipal de Itapetim - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2607703
+260800,JataÌ_ba,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2608008
+260805,JatobÌÁ,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26080540] Prefeitura Municipal de JatobÌÁ - PMJ,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2608057
+260810,JoÌ£o Alfredo,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2608107
+260825,Jucati,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26082540] Prefeitura Municipal de Jucati - PMJ,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2608255
+260830,Jupi,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2608305
+260840,Jurema,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26084040] Prefeitura Municipal de Jurema - PMJ,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2608404
+260860,Lagoa do Ouro,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26086040] SECRETARIA DE OBRAS E URBANISMO - SOU,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2608602
+260870,Lagoa dos Gatos,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2608701
+260875,Lagoa Grande,PE,2015,[26087511] Prefeitura Municipal de Lagoa Grande - PMLG; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26087540] PREFEITURA MUNICIPAL DE LAGOA GRANDE - PMLG/SEIMA,Esgoto; ÌÅgua e Esgoto; Res SÌ_lidos,100,32.92,12.95,78.76,84.78,78.76,54.12,0.07,2608750
+260880,Lajedo,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2608800
+260915,Manari,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2609154
+260930,Mirandiba,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26093040] Prefeitura Municipal Mirandiba - PE - PMM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2609303
+260970,OrobÌ_,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26097040] PREFEITURA - PMO,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2609709
+260980,OrocÌ_,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2609808
+260990,Ouricuri,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26099040] PREFEITURA MUNICIPAL DE OURICURI - PMO,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2609907
+261010,Palmeirina,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26101040] Prefeitura Municipal de Palmeirina - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2610103
+261020,Panelas,PE,2015,[26102011] Prefeitura Municipal de Panelas - PMP; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26102040] Prefeitura Municipal de Panelas - PMP,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,10.29,100,0,100,54.45,0,2610202
+261030,Paranatama,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26103040] Prefeitura Municipal de Paranatama - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2610301
+261040,Parnamirim,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26104040] Prefeitura Municipal de Parnamirim - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2610400
+261050,Passira,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2610509
+261080,Pedra,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2610806
+261090,Pesqueira,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26109040] Prefeitura Municipal de Pesqueira - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2610905
+261100,PetrolÌ¢ndia,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26110040] Prefeitura Municipal de PetrolÌ¢ndia - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2611002
+261110,Petrolina,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26111040] Prefeitura Municipal - PM,ÌÅgua e Esgoto; Res SÌ_lidos,66.15,100,10.38,84.64,66.15,84.64,63.12,0.06,2611101
+261120,PoÌ_Ì£o,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2611200
+261153,Quixaba,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2611533
+261170,Riacho das Almas,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2611705
+261200,SairÌ©,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2612000
+261210,Salgadinho,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2612109
+261220,Salgueiro,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26122040] PREFEITURA MUNICIPAL DO SALGUEIRO - PMS,ÌÅgua e Esgoto; Res SÌ_lidos,28.39,100,8.24,41.32,28.39,41.32,33.36,0.1,2612208
+261230,SaloÌÁ,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26123040] Prefeitura Municipal de SaloÌÁ   Secretaria Municipal de Meio Ambiente - PMS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2612307
+261240,SanharÌ_,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2612406
+261245,Santa Cruz,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2612455
+261247,Santa Cruz da Baixa Verde,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26124740] Prefeitura Municipal de Santa Cruz da    Baixa Verde - PMSCBV,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2612471
+261250,Santa Cruz do Capibaribe,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2612505
+261255,Santa Filomena,PE,2015,[26125511] Prefeitura Municipal de Santa Filomena - PMSF; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26125540] PREFEITURA MUNICIPAL DE SANTA FILOMENA - PGCM,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,100,100,0,100,100,NA,2612554
+261260,Santa Maria da Boa Vista,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2612604
+261270,Santa Maria do CambucÌÁ,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26127040] Secretaria Municipal de SaÌ_de - SMS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2612703
+261280,Santa Terezinha,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2612802
+261300,SÌ£o Bento do Una,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2613008
+261310,SÌ£o Caitano,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26131040] Prefeitura Municipal de SÌ£o Caetano - PMSC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2613107
+261320,SÌ£o JoÌ£o,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2613206
+261330,SÌ£o Joaquim do Monte,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26133040] MunicÌ_pio de SÌ£o Joaquim do Monte - Prefeitura - PMSJM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2613305
+261350,SÌ£o JosÌ© do Belmonte,PE,2015,[26135011] Prefeitura Municipal de SÌ£o JosÌ© do Belmonte - PMSJB; [26116000] Companhia Pernambucana de Saneamento - COMPESA,Esgoto; ÌÅgua,97.38,0,3.06,95.85,0,95.85,63.84,0,2613503
+261360,SÌ£o JosÌ© do Egito,PE,2015,[26136011] Prefeitura Municipal de SÌ£o JosÌ© do Egito - PMSJE; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26136040] Prefeitura Municipal de SÌ£o JosÌ© do Egito - PMSJE,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,7.67,100,0,100,65.85,1,2613602
+261390,Serra Talhada,PE,2015,[26139011] Prefeitura Municipal de Serra Talhada - PMST; [26116000] Companhia Pernambucana de Saneamento - COMPESA,Esgoto; ÌÅgua,29.78,0,7.48,99.56,0,99.56,77.59,0.03,2613909
+261400,Serrita,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26140040] secretaria de meio ambiente de serrita - semas,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2614006
+261410,SertÌ¢nia,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2614105
+261430,MoreilÌ¢ndia,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2614303
+261440,SolidÌ£o,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26144040] secretaria de obras e saneamento - so,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2614402
+261450,Surubim,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2614501
+261460,Tabira,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2614600
+261470,TacaimbÌ_,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26147040] PREFEITURA MUNICPAL DE TACAIMBÌÒ - PMT,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2614709
+261480,Tacaratu,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2614808
+261500,Taquaritinga do Norte,PE,2015,[26150011] Prefeitura Municipal de Taquaritinga do Norte - PMTN; [26116000] Companhia Pernambucana de Saneamento - COMPESA; [26150040] Secretaria de Obras e Urbanismo - SEURB,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,20,90.45,0,90.45,83.36,NA,2615003
+261510,Terezinha,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2615102
+261520,Terra Nova,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2615201
+261540,Toritama,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2615409
+261560,Trindade,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2615607
+261570,Triunfo,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26157040] Prefeitura Municipal de Triunfo - PMT,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2615706
+261580,Tupanatinga,PE,2015,[26158011] Prefeitura Municipal de Tupanatinga - PMT; [26116000] Companhia Pernambucana de Saneamento - COMPESA,Esgoto; ÌÅgua,100,0,5,97.37,0,97.37,37.8,0,2615805
+261590,Tuparetama,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2615904
+261600,Venturosa,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26160040] PREFEITURA MUNICIPAL DE VENTUROSA - PMV,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2616001
+261610,Verdejante,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2616100
+261618,Vertente do LÌ©rio,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26161840] PREFEITURA MUNICIPAL DE VERTENTE DO LÌäRIO - PMVL,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2616183
+261620,Vertentes,PE,2015,[26116000] Companhia Pernambucana de Saneamento - COMPESA; [26162040] Prefeitura Municipal de Vertentes - PMV,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2616209
+270010,ÌÅgua Branca,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL; [27001040] Prefeitura Municipal de ÌÅgua Branca - PMAB,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2700102
+270030,Arapiraca,AL,2015,[27003011] Prefeitura Municipal de Arapiraca - PMA; [27043000] Companhia de Saneamento de Alagoas - CASAL,Esgoto; ÌÅgua,100,0,5.79,17.35,0,17.35,30.3,0,2700300
+270070,Batalha,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL; [27007040] Prefeitura Municipal de Batalha - PMB,ÌÅgua e Esgoto; Res SÌ_lidos,26.15,76.86,22.04,37.91,20.1,37.91,26.74,0.09,2700706
+270090,Belo Monte,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2700904
+270120,Cacimbinhas,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL; [27012040] Prefeitura Municipal de Cacimbinhas - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2701209
+270160,Canapi,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2701605
+270180,Carneiros,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2701803
+270200,CoitÌ© do NÌ_ia,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2702009
+270235,CraÌ_bas,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2702355
+270240,Delmiro Gouveia,AL,2015,[27024011] Prefeitura Municipal de Delmiro Gouveia - PMDG; [27043000] Companhia de Saneamento de Alagoas - CASAL; [27024040] prefeitura municipal de Delmiro Gouveia - pmdg,Esgoto; ÌÅgua; Res SÌ_lidos,100,96.97,7.62,1.01,100,1.01,84.62,NA,2702405
+270250,Dois Riachos,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL; [27025040] Prefeitura Municipal de Dois Riachos - PMDR,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2702504
+270255,Estrela de Alagoas,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2702553
+270290,Girau do Ponciano,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2702900
+270310,Igaci,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2703106
+270330,Inhapi,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL; [27033040] PREFEITURA MUNICIPAL DE INHAPI - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2703304
+270340,JacarÌ© dos Homens,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2703403
+270370,Jaramataia,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2703700
+270410,Lagoa da Canoa,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL; [27041040] Prefeitura Municipal de Lagoa da    Canoa - PMLC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2704104
+270440,Major Isidoro,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL; [27044040] PREFEITURA MUNICIPAL DE MAJOR IZIDORO - PMMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2704401
+270460,Maravilha,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL; [27046040] SECRETARIA MUNICIPAL DE OBRAS. URBANISMO E LIMPEZA URBANA - SMOULU,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2704609
+270500,Mata Grande,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2705002
+270530,Minador do NegrÌ£o,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2705309
+270540,MonteirÌ_polis,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2705408
+270570,Olho D ÌÅGUA das Flores,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2705705
+270580,Olho D ÌÅGUA do Casado,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2705804
+270600,OlivenÌ_a,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2706000
+270610,Ouro Branco,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL; [27061040] SECRETARIA DE OBRAS - SMOV,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2706109
+270620,Palestina,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL; [27062040] Prefeitura Municipal de Palestina - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2706208
+270630,Palmeira dos Ìçndios,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL; [27063040] SECRETARIA MUNICIPAL DE URBANIZAÌàÌÄO - SEMUR,ÌÅgua e Esgoto; Res SÌ_lidos,7.87,100,5.82,4.37,7.87,4.37,3.21,0.05,2706307
+270640,PÌ£o de AÌ_Ì_car,AL,2015,[27064011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE; [27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua; ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2706406
+270642,Pariconha,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL; [27064240] Prefeitura Municipal de Pariconha - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2706422
+270710,Piranhas,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua e Esgoto,70.23,0,11.18,51.24,0,51.24,29.32,NA,2707107
+270720,PoÌ_o das Trincheiras,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2707206
+270760,Quebrangulo,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua e Esgoto,71.46,100,9.86,14.66,71.46,14.66,8.26,NA,2707602
+270800,Santana do Ipanema,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL; [27080040] Secretaria Municipal de Obras - SMO,ÌÅgua e Esgoto; Res SÌ_lidos,2.76,87,115.79,7.41,2.4,7.41,4.48,0.75,2708006
+270840,SÌ£o JosÌ© da Tapera,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2708402
+270895,Senador Rui Palmeira,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL; [27089540] Prefeitura Municipal de Senador Rui Palmeira - PMSRP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2708956
+270920,Traipu,AL,2015,[27043000] Companhia de Saneamento de Alagoas - CASAL; [27092040] Prefeitura Municipal de Traipu - PMT,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2709202
+280010,Amparo de SÌ£o Francisco,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2800100
+280020,AquidabÌ£,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2800209
+280110,Canhoba,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2801108
+280120,CanindÌ© de SÌ£o Francisco,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2801207
+280140,Carira,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2801405
+280160,Cedro de SÌ£o JoÌ£o,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2801603
+280190,Cumbe,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2801900
+280220,Feira Nova,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2802205
+280230,Frei Paulo,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO; [28023040] Prefeitura Municipal de Frei Paulo - PMFP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2802304
+280240,Gararu,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO; [28024040] Prefeitura Municipal de Gararu - PMG,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2802403
+280260,Gracho Cardoso,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO; [28026040] Prefeitura Municipal de Gracho Cardoso - PMGC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2802601
+280310,Itabi,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2803104
+280370,Macambira,SE,2015,[28037011] Prefeitura Municipal de Macambira - PMM; [28003000] Companhia de Saneamento de Sergipe - DESO,Esgoto; ÌÅgua,50.61,100,25.39,84.07,50.61,84.07,40.23,0.56,2803708
+280420,Monte Alegre de Sergipe,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO; [28042040] Prefeitura Municipal de Monte Alegre de Sergipe - PMMAS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2804201
+280445,Nossa Senhora Aparecida,SE,2015,[28044511] Prefeitura Municipal de Nossa Senhora Aparecida - PMNSA; [28003000] Companhia de Saneamento de Sergipe - DESO; [28044540] Prefeitura Municipal de Nossa Senhora Aparecida - PMNSA,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,7.31,99.94,0,99.94,96.75,0,2804458
+280450,Nossa Senhora da GlÌ_ria,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2804508
+280460,Nossa Senhora das Dores,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO; [28046040] Prefeitura Municipal de Nossa Senhora Das Dores - PMNSD,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2804607
+280470,Nossa Senhora de Lourdes,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2804706
+280500,Pedra Mole,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2805000
+280520,PinhÌ£o,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2805208
+280540,PoÌ_o Redondo,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO; [28054040] PREFEITURA MUNICIPAL DE POÌàO REDONDO - PMPRE,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2805406
+280550,PoÌ_o Verde,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO; [28055040] PREFEITURAS MUNICIPAL DE POÌàO VERDE - PMPV,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2805505
+280560,Porto da Folha,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2805604
+280570,PropriÌÁ,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2805703
+280600,RibeirÌ_polis,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2806008
+280700,SÌ£o Miguel do Aleixo,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2807006
+280710,SimÌ£o Dias,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO; [28071040] Secretaria Municipal de Obras. Transporte e ServiÌ_os PÌ_blicos - SMOTSP,ÌÅgua e Esgoto; Res SÌ_lidos,13.07,100,8.39,13.21,13.07,13.21,6.97,0.1,2807105
+280730,Telha,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2807303
+280740,Tobias Barreto,SE,2015,[28003000] Companhia de Saneamento de Sergipe - DESO; [28074040] PREFEITURA MUNICIPAL DE TOBIAS BARRETO - PMTB,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2807402
+290010,AbaÌ_ra,BA,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2900108
+290020,AbarÌ©,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29002040] SECRETARIA DE OBRAS E SERVIÌàO PÌ_BLICO - SECSP,ÌÅgua e Esgoto; Res SÌ_lidos,46.4,100,12.85,63.22,46.4,63.22,33.45,0.2,2900207
+290035,Adustina,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2900355
+290040,ÌÅgua Fria,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2900405
+290050,Ìärico Cardoso,BA,2015,[29005011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE; [29005040] Prefeitura Municipal de Ìärico Cardoso - PM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2900504
+290100,Amargosa,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29010040] PREFEITURA MUNICIPAL DE AMARGOSA - BA,ÌÅgua e Esgoto; Res SÌ_lidos,1.79,100,5.61,3.81,1.79,3.81,2.76,0,2901007
+290115,AmÌ©rica Dourada,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29011540] PREFEITURA MUNICIPAL DE AMERICA DOURADA - PMAD,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2901155
+290120,AnagÌ©,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29012040] Prefeitura Municipal de AnagÌ© - PMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2901205
+290130,AndaraÌ_,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29013040] Prefeitura Municipal de AndaraÌ_ - PMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2901304
+290135,Andorinha,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29013540] Prefeitura Municipal de Andorinha - PMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2901353
+290150,Anguera,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2901502
+290160,Antas,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2901601
+290170,AntÌ«nio Cardoso,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2901700
+290180,AntÌ«nio GonÌ_alves,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2901809
+290200,Aracatu,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2902005
+290210,Araci,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29021040] Prefeitura Municipal de Araci - PMA,ÌÅgua e Esgoto; Res SÌ_lidos,2.79,100,7.94,4.83,2.79,4.83,1.84,0.03,2902104
+290260,Baixa Grande,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29026040] PREFEITURA MUNICIPAL DE BAIXA GRANDE - PMBG,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2902609
+290265,BanzaÌ»,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29026540] PREFEITURA MUNICIPAL DE BANZAÌ_ - PMB,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2902658
+290270,Barra,BA,2015,[29027040] PREFEITURA MUNICIPAL DA BARRA - PMB,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2902708
+290280,Barra da Estiva,BA,2015,[29028011] Prefeitura Municipal de Barra da Estiva - PMBE; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29028040] PREFEITURA MUNICIPAL DE BARRA DA ESTIVA - BE,ÌÅgua e Esgoto; ÌÅgua; Res SÌ_lidos,43.59,0,21.43,78.2,0,78.2,38.4,0,2902807
+290290,Barra do ChoÌ_a,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,2.05,100,6.48,2.14,2.05,2.14,1.38,0.08,2902906
+290300,Barra do Mendes,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29030040] PREFEITURA MUNICIPAL DE BARRA DO MENDES - PMBM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2903003
+290323,Barro Alto,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2903235
+290327,Barrocas,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2903276
+290350,Belo Campo,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2903508
+290360,Biritinga,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2903607
+290370,Boa Nova,BA,2015,[29037011] Prefeitura Municipal de Boa Nova - PMBN; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,Esgoto; ÌÅgua,37.08,0,4.6,60.18,0,60.18,22.67,0,2903706
+290380,Boa Vista do Tupim,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2903805
+290390,Bom Jesus da Lapa,BA,2015,[29039011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE,ÌÅgua e Esgoto,66.42,100,17.93,100,66.42,100,67.89,0.35,2903904
+290395,Bom Jesus da Serra,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29039540] PREFEITURA MUNICIPAL DE BOM JESUS DA SERRA - BA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2903953
+290400,Boninal,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2904001
+290405,Bonito,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2904050
+290410,Boquira,BA,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2904100
+290420,BotuporÌ£,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2904209
+290430,BrejÌµes,BA,2015,[29043011] Prefeitura Municipal de BrejÌµes - PMB; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,Esgoto; ÌÅgua,78.26,0,7.19,100,0,100,100,0,2904308
+290440,BrejolÌ¢ndia,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2904407
+290450,Brotas de MacaÌ_bas,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2904506
+290460,Brumado,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29046040] Prefeitura Municipal de Brumado - PMBRUMADO,ÌÅgua e Esgoto; Res SÌ_lidos,5.72,100,7.76,9.1,5.72,9.1,6.36,0.03,2904605
+290475,Buritirama,BA,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2904753
+290480,Caatiba,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2904803
+290485,Cabaceiras do ParaguaÌ_u,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,7.98,100,13.07,12.25,7.98,12.25,3.28,0.01,2904852
+290500,CaculÌ©,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2905008
+290510,CaÌ©m,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29051040] Prefeitura Municipal de CaÌ©m - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2905107
+290515,Caetanos,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2905156
+290520,CaetitÌ©,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29052040] SECRETARIA MUNICIPAL DE MEIO AMBIENTE - SEMMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2905206
+290530,Cafarnaum,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29053040] PREFEITURA MUNICIPAL CAFARNAUM - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2905305
+290550,CaldeirÌ£o Grande,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2905503
+290590,Campo Alegre de Lourdes,BA,2015,[29059011] Prefeitura Municipal de Campo Alegre de Lourdes - PMCAL; [29059040] Prefeitura Municipal Campo Alegre de Lourdes - PM,ÌÅgua e Esgoto; Res SÌ_lidos,72.8,0,11.26,99.87,0,99.87,28.89,NA,2905909
+290600,Campo Formoso,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,4.65,100,11.16,10.98,4.65,10.98,4.1,0.01,2906006
+290620,Canarana,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2906204
+290640,Candeal,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2906402
+290660,Candiba,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29066040] Prefeitura Municipal de Candiba - BA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2906600
+290670,CÌ¢ndido Sales,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29067040] Prefeitura Municipal de CÌ¢ndido Sales - PMCS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2906709
+290680,CansanÌ_Ì£o,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29068040] Prefeitura Municipal de CansanÌ_Ì£o - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2906808
+290682,Canudos,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29068240] PREFEITURA MUNICIPAL DE CANUDOS - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2906824
+290685,Capela do Alto Alegre,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2906857
+290687,Capim Grosso,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29068740] PREFEITURA MUNICIPAL DE CAPIM GROSSO - PMCG,ÌÅgua e Esgoto; Res SÌ_lidos,5.85,100,9.33,0,5.85,0,7.3,0.01,2906873
+290689,CaraÌ_bas,BA,2015,[29068911] Prefeitura Municipal de CaraÌ_bas - PMC; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29068940] PREFEITURA MUNICIPAL DE CARAIBAS - PMC,Esgoto; ÌÅgua; Res SÌ_lidos,48.54,100,12.45,50,48.54,50,12.29,NA,2906899
+290710,Carinhanha,BA,2015,[29071011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE; [29071040] PREFEITURA MUNICIPAL DE CARINHANHA - PMC,ÌÅgua e Esgoto; Res SÌ_lidos,8.51,100,97.86,42.35,8.51,42.35,18.78,0.19,2907103
+290720,Casa Nova,BA,2015,[29072011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE,ÌÅgua e Esgoto,34.68,71.09,12.18,43.14,24.65,43.14,31.87,0.06,2907202
+290730,Castro Alves,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29073040] PREFEITURA MUNICIPAL DE CASTRO ALVES - PMCA,ÌÅgua e Esgoto; Res SÌ_lidos,2.69,100,9.86,3.9,2.69,3.9,2.41,0.01,2907301
+290755,Caturama,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,2.73,100,32.06,66.62,2.73,66.62,17.89,0,2907558
+290760,Central,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2907608
+290770,ChorrochÌ_,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,38,100,10.34,0,38,0,23.77,0,2907707
+290780,CÌ_cero Dantas,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2907806
+290790,CipÌ_,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29079040] Secretaria de Agricultura. Aquicultura Meio Ambiente e Desenvolvimento Sustentavel - SEAAM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2907905
+290810,Cocos,BA,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2908101
+290840,ConceiÌ_Ì£o do CoitÌ©,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29084040] PREFEITURA MUNICIPAL DE CONCEIÌàÌÄO DO COITÌä - PMCC,ÌÅgua e Esgoto; Res SÌ_lidos,6.1,100,7.83,9.06,6.1,9.06,5.3,0.34,2908408
+290870,CondeÌ_ba,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29087040] Prefeitura Municipal de CondeÌ_ba - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2908705
+290880,Contendas do SincorÌÁ,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29088040] Prefeitura Municipal de Contendas do SincorÌÁ - PMCS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2908804
+290900,Cordeiros,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29090040] Prefeitura Municipal de Cordeiros - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2909000
+290910,Coribe,BA,2015,[29091011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE; [29091040] PREFEITURA MUNICIPAL DE CORIBE - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2909109
+290920,Coronel JoÌ£o SÌÁ,BA,2015,[29092011] Prefeitura Municipal de Coronel JoÌ£o SÌÁ - PMCJS; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29092040] SECRETARIA DE AGRICULTURA E MEIO AMBIENTE - SECMA,Esgoto; ÌÅgua; Res SÌ_lidos,20.33,0,7.27,55.41,0,55.41,25.84,NA,2909208
+290950,CravolÌ¢ndia,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,81.61,100,15.91,73.99,81.61,73.99,46.67,0.02,2909505
+290960,CrisÌ_polis,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29096040] Prefeitura Municipal de Crisopolis - PMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2909604
+290990,CuraÌ_ÌÁ,BA,2015,[29099011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE,ÌÅgua e Esgoto,85,89.27,8.85,63.19,75.88,63.19,29.57,0.02,2909901
+291010,Dom BasÌ_lio,BA,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2910107
+291030,ElÌ_sio Medrado,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2910305
+291040,Encruzilhada,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,78.76,100,21.18,90.59,78.76,90.59,19.56,0.46,2910404
+291070,Euclides da Cunha,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29107040] Prefeitura Municipal de Euclides da Cunha - Bahia - PMEC,ÌÅgua e Esgoto; Res SÌ_lidos,20.31,100,6.98,30.06,20.31,30.06,14.64,0,2910701
+291075,FÌÁtima,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2910750
+291077,Feira da Mata,BA,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2910776
+291080,Feira de Santana,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29108040] SESP - SECRETARIA MUNICIPAL DE SERVIÌàOS PÌ_BLICOS - SESP,ÌÅgua e Esgoto; Res SÌ_lidos,82.58,100,5.59,60.18,82.58,60.18,55.2,0.39,2910800
+291085,FiladÌ©lfia,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2910859
+291125,GaviÌ£o,BA,2015,[29112511] Prefeitura Municipal de GaviÌ£o - pmg; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29112540] Prefeitura Municipal de GaviÌ£o - PMG,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,7.27,100,0,100,55.65,NA,2911253
+291130,Gentio do Ouro,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29113040] PREFEITURA MUNICIPAL DE GENTIO DO OURO - PM,ÌÅgua e Esgoto; Res SÌ_lidos,71.83,100,13.77,41.91,71.83,41.91,21.11,0.01,2911303
+291140,GlÌ_ria,BA,2015,[29114011] Prefeitura Municipal de GlÌ_ria - PMG; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29114040] Prefeitura Municipal de GlÌ_ria - PMG,Esgoto; ÌÅgua e Esgoto; Res SÌ_lidos,22.95,43.16,28.19,96.02,9.91,96.02,24.5,0.26,2911402
+291165,Guajeru,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29116540] Prefeitura Municipal de Guajeru - PMG,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2911659
+291170,Guanambi,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29117040] SEC MUL DE INFRA ESTRUTURA - SEC INFRA,ÌÅgua e Esgoto; Res SÌ_lidos,14.63,77.14,18.25,58.98,11.28,58.98,46.81,0.6,2911709
+291185,HeliÌ_polis,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2911857
+291190,IaÌ_u,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2911907
+291200,IbiassucÌ»,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2912004
+291220,Ibicoara,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29122040] Prefeitura Municipal de Ibicoara - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2912202
+291240,Ibipeba,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2912400
+291250,Ibipitanga,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2912509
+291260,Ibiquera,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29126040] Prefeitura Municipal de Ibiquera - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2912608
+291300,Ibitiara,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,48.55,100,10.83,39.48,48.55,39.48,8.75,0.12,2913002
+291310,IbititÌÁ,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29131040] Prefeitura Municipal de Ibitita - BAHIA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2913101
+291320,Ibotirama,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,76.7,100,9.36,84.84,76.7,84.84,65.07,0,2913200
+291330,Ichu,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2913309
+291340,IgaporÌ£,BA,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2913408
+291350,IguaÌ_,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29135040] SECRETARIA DO MEIO AMBIENTE - SEMA,ÌÅgua e Esgoto; Res SÌ_lidos,10.88,100,6.22,11.99,10.88,11.99,6.8,0.05,2913507
+291370,Inhambupe,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29137040] SecretÌÁria de Infraestrutura ServiÌ_o PÌ_blico - SEINFRA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2913705
+291380,IpecaetÌÁ,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29138040] Prefeitura Municipal de IpecaetÌÁ - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2913804
+291400,IpirÌÁ,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29140040] secretaria de infraestrutura - seinfra,ÌÅgua e Esgoto; Res SÌ_lidos,6.64,100,8.37,9.47,6.64,9.47,5.52,0.19,2914000
+291410,Ipupiara,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,71.42,100,16.49,67.77,71.42,67.77,43.64,0,2914109
+291420,Irajuba,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2914208
+291430,Iramaia,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29143040] Prefeitura Municipal de Iramaia - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2914307
+291440,Iraquara,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2914406
+291460,IrecÌ»,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29146040] SECRETARIA DE INFRAESTRUTURA E SERVIÌàOS PÌ_BLICOS - SISP,ÌÅgua e Esgoto; Res SÌ_lidos,12.29,100,4.73,20.4,12.29,20.4,18.81,0.12,2914604
+291470,Itaberaba,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29147040] PREFEITURA MUNICIPAL - PMI,ÌÅgua e Esgoto; Res SÌ_lidos,9.79,100,5.65,16.04,9.79,16.04,12.62,0.12,2914703
+291500,ItaetÌ©,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2915007
+291510,Itagi,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2915106
+291535,ItaguaÌ_u da Bahia,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2915353
+291580,ItambÌ©,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,2.95,100,10.02,3.39,2.95,3.39,2.89,0.36,2915809
+291640,Itapetinga,BA,2015,[29164011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE; [29164040] Prefeitura Municipal de Itapetinga - PMI,ÌÅgua e Esgoto; Res SÌ_lidos,53.82,24.42,5.8,94.24,13.15,94.24,94.4,0,2916401
+291650,Itapicuru,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2916500
+291670,Itaquara,BA,2015,[29167011] Prefeitura Municipal de Itaquara - PMI; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29167040] Prefeitura Municipal de Itaquara - PMI,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,10.57,100,0,100,60.02,0,2916708
+291680,Itarantim,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2916807
+291685,Itatim,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29168540] Prefeitura Municipal de Itatim - PMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2916856
+291690,ItiruÌ_u,BA,2015,[29169011] Prefeitura Municipal de ItiruÌ_u - PMI; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29169040] Prefeitura Municipal de ItiruÌ_u - PMI,Esgoto; ÌÅgua; Res SÌ_lidos,59.52,0,3.11,100,0,100,75.05,0,2916906
+291700,ItiÌ_ba,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29170040] PREFEITURA MUNICIPAL DE ITIUBA - PMI,ÌÅgua e Esgoto; Res SÌ_lidos,3.9,100,14.66,5.12,3.9,5.12,1.37,0.01,2917003
+291710,ItororÌ_,BA,2015,[29171011] ServiÌ_os AutÌ«nomos de ÌÅgua e Esgotos - SAAE,ÌÅgua e Esgoto,34.14,0,7.32,95.9,0,95.9,87.17,0,2917102
+291720,ItuaÌ_u,BA,2015,[29172011] Prefeitura Municipal de ItuaÌ_u - PMI; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,Esgoto; ÌÅgua,97.14,0,9.08,49.77,0,49.77,18.04,0,2917201
+291733,IuiÌ_,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2917334
+291740,Jacaraci,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29174040] PREFEITURA MUNICIPAL DE JACARACI - PMJ,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2917409
+291750,Jacobina,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29175040] Limpeza PÌ_blica de Jacobina - LIMPUJA,ÌÅgua e Esgoto; Res SÌ_lidos,3.95,100,8.4,7.01,3.95,7.01,4.94,0.58,2917508
+291760,Jaguaquara,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29176040] SECRETARIA DE INFRAESTRUTURA - SEINFRA,ÌÅgua e Esgoto; Res SÌ_lidos,39.39,100,16.83,41.89,39.39,41.89,31.9,0.06,2917607
+291770,Jaguarari,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29177040] Prefeitura Municipal de Jaguarari - PMJ,ÌÅgua e Esgoto; Res SÌ_lidos,46.41,100,6.79,51.35,46.41,51.35,28.11,1.31,2917706
+291800,JequiÌ©,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,99.77,100,9.4,95.52,99.77,95.52,87.68,0.32,2918001
+291810,Jeremoabo,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29181040] SECRETARIA DO MEIO AMBIENTE E SUSTENTABILIDADE - SEMMAS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2918100
+291835,JoÌ£o Dourado,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29183540] Prefeitura Municipal de JoÌ£o Dourado - PMJD,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2918357
+291840,Juazeiro,BA,2015,[29184011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto de Juazeiro - SAAE,ÌÅgua e Esgoto,22.12,89.17,5.51,72.36,19.73,72.36,61.64,NA,2918407
+291850,Jussara,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2918506
+291860,Jussiape,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29186040] Secretaria Municipal de AdministraÌ_Ì£o - SMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2918605
+291870,Lafaiete Coutinho,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29187040] Prefeitura Municipal de Lafaiete Coutinho - PMLC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2918704
+291875,Lagoa Real,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2918753
+291900,Lajedinho,BA,2015,[29190011] Prefeitura Municipal de Lajedinho - PML; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29190040] PREFEITURA MUNICIPAL DE LAJEDINHO - PML,Esgoto; ÌÅgua; Res SÌ_lidos,49.74,0,14.08,76.37,0,76.37,24.16,0,2919009
+291905,Lajedo do Tabocal,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2919058
+291910,LamarÌ£o,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2919108
+291915,LapÌ£o,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2919157
+291930,LenÌ_Ì_is,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29193040] SECRETARIA MUNICIPAL DE MEIO AMBIENTE - SEMMA,ÌÅgua e Esgoto; Res SÌ_lidos,65.91,100,5.47,57.17,65.91,57.17,44.32,0.02,2919306
+291940,LicÌ_nio de Almeida,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29194040] prefeitura municipal - pmla,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2919405
+291950,Livramento de Nossa Senhora,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2919504
+291960,Macajuba,BA,2015,[29196011] Prefeitura Municipal de Macajuba - PMM; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29196040] PREFEITURA MUNICIPAL DE MACAJUBA - PMM,Esgoto; ÌÅgua; Res SÌ_lidos,76.86,0,8.05,99.99,0,99.99,61.18,NA,2919603
+291970,Macarani,BA,2015,[29197011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2919702
+291980,MacaÌ_bas,BA,2015,[29198011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29198040] Prefeitura Municipal de MacaÌ_bas - PMM,ÌÅgua; ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2919801
+291990,MacururÌ©,BA,2015,[29199011] Prefeitura Municipal de MacururÌ© - PMM; [29199040] Secretaria de Obra e Infraestrutura - SECINFRA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2919900
+291995,Maetinga,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29199540] Prefeitura Municipal de Maetinga - PMM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2919959
+292000,Maiquinique,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2920007
+292010,Mairi,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29201040] SECRETARIA DE INFRAESTRUTURA - SINFRA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2920106
+292020,Malhada,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2920205
+292030,Malhada de Pedras,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29203040] PREFEITIRA MUNICIPAL DE MALHADA DE PEDRAS - PMMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2920304
+292040,Manoel Vitorino,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2920403
+292050,MaracÌÁs,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29205040] Prefeitura Municipal de MaracÌÁs - PMM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2920502
+292080,MarcionÌ_lio Souza,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29208040] SECRETARIA MUNICIPAL DE ADMINISTRAÌàÌÄO - PMMS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2920809
+292105,Matina,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2921054
+292120,Miguel Calmon,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,20.3,100,12.16,28.02,20.3,28.02,17,0.47,2921203
+292130,Milagres,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29213040] Prefeitura Municipal de Milagres - PMM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2921302
+292140,Mirangaba,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2921401
+292145,Mirante,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29214540] PREFEITURA MUNICIPAL DE MIRANTE - PMM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2921450
+292150,Monte Santo,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29215040] Prefeitura Municipal de Monte Santo - PMMS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2921500
+292160,MorparÌÁ,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29216040] Prefeitura Municipal de MorparÌÁ - PMM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2921609
+292170,Morro do ChapÌ©u,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29217040] Prefeitura Municipal de Morro do ChapÌ©u - PMMC,ÌÅgua e Esgoto; Res SÌ_lidos,62.96,100,13.95,66.57,62.96,66.57,38.37,0.01,2921708
+292180,Mortugaba,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29218040] Prefeitura Municipal de Mortugaba - PMM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2921807
+292190,MucugÌ»,BA,2015,[29219011] Prefeitura Municipal de MucugÌ» - PMM; [29219040] Prefeitura Municipal de MucugÌ» - PMM,ÌÅgua e Esgoto; Res SÌ_lidos,100,59.96,29.41,100,77.56,100,60.83,0,2921906
+292205,Mulungu do Morro,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29220540] Secretaria Municipal de Infraestrutura e ServiÌ_os PÌ_blicos - SECINSP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2922052
+292210,Mundo Novo,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29221040] Prefeitura Municipal de Mundo Novo - PMMN,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2922102
+292225,MuquÌ©m de SÌ£o Francisco,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,52.89,100,12.35,93.45,52.89,93.45,11.67,0,2922250
+292265,Nordestina,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29226540] PREFEITURA MUNICIPAL DE NORDESTINA - PMN,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2922656
+292270,Nova CanaÌ£,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2922706
+292273,Nova FÌÁtima,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2922730
+292280,Nova Itarana,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29228040] PREFEITURA MUNICIPAL DE NOVA ITARANA - PMNI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2922805
+292285,Nova RedenÌ_Ì£o,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2922854
+292290,Nova Soure,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2922904
+292303,Novo Horizonte,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2923035
+292305,Novo Triunfo,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29230540] PREFEITURA MUNICIPAL - PMNT,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2923050
+292310,Olindina,BA,2015,[29231011] Prefeitura Municipal de Olindina - PMO; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29231040] SECRETARIA MUNICIPAL DE OBRAS E SERVIÌàOS URBANOS - SESUR,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,8.26,72.82,0,72.82,37.29,0,2923100
+292320,Oliveira dos Brejinhos,BA,2015,[29232011] Sistema AutÌ«nomo de ÌÅgua e Esgotos - SAAE; [29232040] Prefeitura Municipal de Oliveira dos Brejinhos - PMOB,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2923209
+292335,OurolÌ¢ndia,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2923357
+292340,Palmas de Monte Alto,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29234040] Prefeitura Municipal de Palmas de Monte Alto - PMPMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2923407
+292350,Palmeiras,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,67.94,100,30.97,56.54,67.94,56.54,35.22,0.01,2923506
+292360,Paramirim,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29236040] Secretaria Municipal de Infraestrutura - SMI,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2923605
+292370,Paratinga,BA,2015,[29237040] Prefeitura Municipal de Paratinga - PMP,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2923704
+292380,Paripiranga,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29238040] PREFEITURA MUNICIPAL DE PARIPIRANGA - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2923803
+292400,Paulo Afonso,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,32.95,100,15.81,32.95,32.95,32.95,28.39,0.08,2924009
+292405,PÌ© de Serra,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2924058
+292420,Pedro Alexandre,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2924207
+292430,PiatÌ£,BA,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2924306
+292440,PilÌ£o Arcado,BA,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2924405
+292450,PindaÌ_,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29245040] Prefeitura Municipal de Pindai - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2924504
+292460,PindobaÌ_u,BA,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2924603
+292465,Pintadas,BA,2015,[29246511] Prefeitura Municipal de Pintadas - PMP; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29246540] Prefeitura Municipal de Pintadas - PMP,Esgoto; ÌÅgua; Res SÌ_lidos,44.67,77.78,13.51,86.55,34.74,86.55,48.87,0.16,2924652
+292470,PiripÌÁ,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29247040] Prefeitura Municipal de PiripÌÁ - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2924702
+292480,Piritiba,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2924801
+292490,Planaltino,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29249040] Prefeitura Municipal de Planaltino - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2924900
+292500,Planalto,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29250040] Prefeitura Municipal de Planalto - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2925006
+292510,PoÌ_Ìµes,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2925105
+292525,Ponto Novo,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2925253
+292540,PotiraguÌÁ,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29254040] Prefeitura Municipal de PotiraguÌÁ - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2925402
+292560,Presidente Dutra,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29256040] Prefeitura Municipal de Presidente Dutra - PMPDBA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2925600
+292570,Presidente JÌ¢nio Quadros,BA,2015,[29257011] Prefeitura Municipal de Presidente JÌ¢nio Quadros - PMPJQ; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29257040] PRESIDENTE JÌâNIO QUADROS PREFEITURA - PMPJQ,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,25,0.02,0,0.02,68.3,0,2925709
+292580,Queimadas,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2925808
+292590,Quijingue,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29259040] SECRETARIA MUNICIPAL DE INFRAESTRUTURA. DESENVOLVIMENTO URBANO E TRANSPORTES - SEINFRA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2925907
+292593,Quixabeira,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2925931
+292595,Rafael Jambeiro,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2925956
+292600,Remanso,BA,2015,[29260011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE; [29260040] PREFEITURA MUNICIPAL DE REMANSO - PMR,ÌÅgua e Esgoto; Res SÌ_lidos,33.26,100,9.3,48,33.26,48,28.92,0.13,2926004
+292610,RetirolÌ¢ndia,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2926103
+292630,RiachÌ£o do JacuÌ_pe,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29263040] Prefeitura Municipal de RiachÌ£o do Jacuipe - PMRJ,ÌÅgua e Esgoto; Res SÌ_lidos,1.86,100,6.03,2.89,1.86,2.89,1.73,0.01,2926301
+292640,Riacho de Santana,BA,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2926400
+292650,Ribeira do Amparo,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2926509
+292660,Ribeira do Pombal,BA,2015,[29266011] Prefeitura Municipal de Ribeira do Pombal - PMRP; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29266040] Prefeitura Municipal de Ribeira do Pombal - PMRP,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,3.17,26.74,0,26.74,18.39,0,2926608
+292665,RibeirÌ£o do Largo,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2926657
+292670,Rio de Contas,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,56.26,100,11.55,50.27,56.26,50.27,24.38,0.34,2926707
+292680,Rio do AntÌ«nio,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2926806
+292690,Rio do Pires,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29269040] Prefeitura Muinicipal de Rio do Pires - PMRP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2926905
+292710,Rodelas,BA,2015,[29271011] Prefeitura Municipal de Rodelas - PMR; [29271040] SECRETARIA DE OBRAS E INFRAESTRUTURA - SECINFRA,ÌÅgua e Esgoto; Res SÌ_lidos,62.91,0,10.91,89.03,0,89.03,89.03,0,2927101
+292720,Ruy Barbosa,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,9.62,100,15.49,7.07,9.62,7.07,5.22,0.02,2927200
+292750,Santa BÌÁrbara,BA,2015,[29275011] Prefeitura Municipal de Santa BÌÁrbara - PMSB; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29275040] Prefeitura Municipal de Santa Barbara - Ba,Esgoto; ÌÅgua; Res SÌ_lidos,70.89,3.57,7.01,52.98,5.91,52.98,33.73,NA,2927507
+292760,Santa BrÌ_gida,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29276040] PREFEITUTA MUNICIPAL DE SANTA BRIGIDA - PMSB,ÌÅgua e Esgoto; Res SÌ_lidos,36.54,100,5.8,76.75,36.54,76.75,28.6,0,2927606
+292790,Santa InÌ»s,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29279040] PREFEITURA MUNICIPAL DE SANTA INES - PMSI,ÌÅgua e Esgoto; Res SÌ_lidos,68.35,100,9.65,58.96,68.35,58.96,54.13,0.28,2927903
+292800,Santaluz,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2928000
+292820,Santana,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2928208
+292830,SantanÌ_polis,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2928307
+292850,Santa Teresinha,BA,2015,[29285011] Prefeitura Municipal de Santa Teresinha - PMST; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,Esgoto; ÌÅgua,72.89,0,7,78.09,0,78.09,20.78,0.05,2928505
+292880,Santo EstÌ»vÌ£o,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29288040] Secretaria de Obras. ServiÌ_os PÌ_blicos e Meio Ambiente - SEOBS,ÌÅgua e Esgoto; Res SÌ_lidos,1.28,100,6.63,1.43,1.28,1.43,0.83,0,2928802
+292895,SÌ£o Domingos,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2928950
+292905,SÌ£o FÌ©lix do Coribe,BA,2015,[29290511] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2929057
+292925,SÌ£o Gabriel,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29292540] PREFEITURA MUNICIPAL DE SÌÄO GABRIEL - PMSG,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2929255
+292937,SÌ£o JosÌ© do JacuÌ_pe,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2929370
+292970,SÌÁtiro Dias,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2929701
+292980,SaÌ_de,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2929800
+292990,Seabra,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2929909
+293000,SebastiÌ£o Laranjeiras,BA,2015,[29300011] Prefeitura Municipal de SebastiÌ£o Laranjeiras - PMSL; [29300040] Prefeitura Municipal de SebastiÌ£o Laranjeiras - PMSL,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2930006
+293010,Senhor do Bonfim,BA,2015,[29301011] Prefeitura Municipal de Senhor do Bonfim - PMSB; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29301040] Secretaria de Infraestrutura - seinfra,Esgoto; ÌÅgua e Esgoto; Res SÌ_lidos,100,1.94,7.2,53.45,3.39,53.45,54.63,1.45,2930105
+293015,Serra do Ramalho,BA,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2930154
+293020,Sento SÌ©,BA,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2930204
+293030,Serra Dourada,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29303040] Prefeitura Municipal de Serra Dourada - PMSD,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2930303
+293040,Serra Preta,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29304040] Prefeitura Municipal de Serra Preta - PMSP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2930402
+293050,Serrinha,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,10.93,100,7.75,14.65,10.93,14.65,9.01,0.25,2930501
+293060,SerrolÌ¢ndia,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29306040] PREFEITURA MUNICIPAL DE SERROLANDIA - PMS,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2930600
+293075,SÌ_tio do Mato,BA,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,2930758
+293076,SÌ_tio do Quinto,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2930766
+293077,Sobradinho,BA,2015,[29307711] Empresa Municipal de ServiÌ_os de ÌÅgua e Esgoto - EMSAE; [29307740] Prefeitura Municipal de Sobradinho - SIESP,ÌÅgua e Esgoto; Res SÌ_lidos,86.75,0,8.92,80.45,0,80.45,73.15,0.01,2930774
+293080,Souto Soares,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2930808
+293090,Tabocas do Brejo Velho,BA,2015,[29309011] Prefeitura Municipal de Tabocas do Brejo Velho - PMTBV; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua; ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2930907
+293100,TanhaÌ_u,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2931004
+293105,Tanque Novo,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2931053
+293110,Tanquinho,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2931103
+293130,TapiramutÌÁ,BA,2015,[29313011] Prefeitura Municipal de TapiramutÌÁ - PMT; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29313040] Secretaria Municipal de Infraestrutura - SMI,Esgoto; ÌÅgua; Res SÌ_lidos,96.51,0,4,51.98,0,51.98,40.23,0,2931301
+293150,TeofilÌ¢ndia,BA,2015,[29315011] Prefeitura Municipal de TeofilÌ¢ndia - PMT; [29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,Esgoto; ÌÅgua,18.8,0.99,8.57,32.09,0,32.09,10.43,0.01,2931509
+293180,Tremedal,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2931806
+293190,Tucano,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua e Esgoto,41.86,100,6.96,48.08,41.86,48.08,20.14,0.23,2931905
+293200,UauÌÁ,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2932002
+293210,UbaÌ_ra,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29321040] Prefeitura Municipal - UBAÌçRA,ÌÅgua e Esgoto; Res SÌ_lidos,67.94,100,9.5,57.73,67.94,57.73,25.79,0.28,2932101
+293240,UibaÌ_,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29324040] SECRETARIA MUNICIPAL DE OBRAS. TRANSPORTES E SERVIÌàOS PÌ_BLICOS - SMO,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2932408
+293245,Umburanas,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2932457
+293260,Urandi,BA,2015,[29326040] Prefeitura Municipal de Urandi - PMU,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2932606
+293280,Utinga,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29328040] Prefeitura Municipal de Utinga - PMU,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2932804
+293300,Valente,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29330040] Prefeitura Municipal de Valente - pmv,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2933000
+293305,VÌÁrzea da RoÌ_a,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2933059
+293310,VÌÁrzea do PoÌ_o,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29331040] PREFEITURA MUNICIPAL DE VÌÅRZEA DO POÌàO - PMVP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,2933109
+293315,VÌÁrzea Nova,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29331540] Prefeitura Municipal de VÌÁrzea Nova - PMVN,ÌÅgua e Esgoto; Res SÌ_lidos,75.19,100,17.7,99.4,75.19,99.4,65.03,0.01,2933158
+293330,VitÌ_ria da Conquista,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA; [29333040] SECRETARIA DE SERVIÌàOS PÌ_BLICOS - SESEP,ÌÅgua e Esgoto; Res SÌ_lidos,82.48,100,9.6,90.17,82.48,90.17,80.73,0.4,2933307
+293340,Wagner,BA,2015,[29274000] Empresa Baiana de ÌÅguas e Saneamento SA - EMBASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,2933406
+293360,Xique-Xique,BA,2015,[29336011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE; [29336040] PREFEITURA DE XIQUE-XIQUE - PMXX,ÌÅgua e Esgoto; Res SÌ_lidos,9.6,0,13.72,18.1,0,18.1,12.93,NA,2933604
+310100,ÌÅguas Vermelhas,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31010040] Prefeitura Municipal de ÌÅguas Vermelhas - PMAV,ÌÅgua e Esgoto; Res SÌ_lidos,28.51,100,14.87,38.58,28.51,38.58,27.11,0.08,3108255
+310170,Almenara,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR,ÌÅgua e Esgoto; ÌÅgua,72.09,100,10.06,85.36,72.09,85.36,69.89,0.25,3101003
+310270,Cachoeira de PajeÌ_,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31027040] Prefeitura Municipal de Cachoeira de PajeÌ_ - PMCP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,3101706
+310340,AraÌ_uaÌ_,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31034040] SecretÌÁria Municipal de Desenvolvimento Urbano - SMDU,ÌÅgua e Esgoto; ÌÅgua e Esgoto; Res SÌ_lidos,45.05,100,11.46,52.97,45.05,52.97,38.57,NA,3102704
+310520,Bandeira,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31052040] SECRETARIA MUNICIPAL DE OBRAS. SERVIÌàOS E TRANSPORTES - SMOST,ÌÅgua e Esgoto; Res SÌ_lidos,78.81,0,6.8,96.24,0,96.24,45.87,NA,3103405
+310650,Berilo,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31065040] PREFEITURA MUNICIPAL DE B ERILO - PM,ÌÅgua e Esgoto; Res SÌ_lidos,60,100,7.17,86.59,60,86.59,38.29,NA,3105202
+310665,Berizal,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31066540] Prefeitura Municipal de Berizal - PMB,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,3106507
+310825,Bonito de Minas,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,3106655
+311270,CapitÌ£o EnÌ©as,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31127040] PREFEITURA MUNICIPAL - PMCE,ÌÅgua e Esgoto; Res SÌ_lidos,26.1,98.88,20.72,27.44,25.81,27.44,22.25,0.13,3112703
+311300,CaraÌ_,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31130040] Prefeitura Municipal CaraÌ_ - PMC,ÌÅgua e Esgoto; Res SÌ_lidos,8.19,80.71,5.25,0,6.61,0,4.3,NA,3113008
+311547,Catuti,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31154740] Prefeitura Municipal de Catuti - PMC,ÌÅgua e Esgoto; Res SÌ_lidos,22.99,99.85,51.35,21.79,22.95,21.79,12.72,0.57,3115474
+311610,Chapada do Norte,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,3116100
+311700,Comercinho,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31170040] Prefeitura Municipal - PM,ÌÅgua e Esgoto; Res SÌ_lidos,47.81,0,13.78,98.15,0,98.15,41.95,NA,3117009
+311783,CÌ«nego Marinho,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31178340] Prefeitura Municipal de CÌ«nego Marinho - PMCM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,3117836
+311950,Coronel Murta,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31195040] Prefeitura Municipal de Coronel Murta - PMCM,ÌÅgua e Esgoto; ÌÅgua; Res SÌ_lidos,41.32,99.7,9.12,47.02,41.2,47.02,34.52,0.09,3119500
+312030,CristÌÁlia,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31203040] SecretÌÁria de Meio Ambiente - PMC,ÌÅgua e Esgoto; Res SÌ_lidos,23.41,100,19.88,25.67,23.41,25.67,13.61,0,3120300
+312087,Curral de Dentro,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,3120870
+312235,Divisa Alegre,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,3122355
+312245,DivisÌ_polis,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31224540] SECRETARIA MUNICIPAL DE LIMPEZA URBANA - MG,ÌÅgua e Esgoto; Res SÌ_lidos,25.96,100,10.57,35.9,25.96,35.9,25.61,0.05,3122454
+312430,Espinosa,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31243040] Prefeitura Municipal - PM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,3124302
+312560,Felisburgo,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31256040] PREFEITURA MUNICIPAL DE FELISBURGO - PMF,ÌÅgua e Esgoto; Res SÌ_lidos,84.87,0,8.47,99.52,0,99.52,73.63,NA,3125606
+312650,Francisco BadarÌ_,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31265040] Prefeitura Municipal de Francisco BadarÌ_ - PMFB,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,3126505
+312670,Francisco SÌÁ,MG,2015,[31267011] ServiÌ_o AutÌ«nomo de ÌÅgua e Esgoto - SAAE; [31267040] Prefeitura Municipal - PMFcSa,ÌÅgua e Esgoto; Res SÌ_lidos,64,100,11.33,84.91,64,84.91,50.77,0.07,3126703
+312707,Fruta de Leite,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,3127073
+312733,Gameleiras,MG,2015,,,NA,NA,NA,NA,NA,NA,NA,NA,3127339
+312780,GrÌ£o Mogol,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31278040] Prefeitura Municipal de GrÌ£o Mogol - PMGM,ÌÅgua e Esgoto; ÌÅgua; Res SÌ_lidos,37.33,100,3.94,48.14,37.33,48.14,17.27,0.09,3127800
+312965,Ibiracatu,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,3129657
+313065,Indaiabira,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31306540] secretaria de obras - secretaria de obras,ÌÅgua e Esgoto; Res SÌ_lidos,27.19,100,20.51,30.41,27.19,30.41,11.37,0,3130655
+313210,Itacarambi,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31321040] PREFEITURA MUNICIPAL DE ITACARAMBI - PMI,ÌÅgua e Esgoto; Res SÌ_lidos,25.03,100,16.13,29.17,25.03,29.17,22.72,0,3132107
+313330,Itaobim,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31333040] PREFITURA MUNICÌçPAL DE ITATOBIM - pm,ÌÅgua e Esgoto; ÌÅgua; Res SÌ_lidos,33.39,100,7.73,43.39,33.39,43.39,32.6,0.22,3133303
+313400,Itinga,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31340040] PREFEITURA MUNICIPAL DE ITINGA - PM ITINGA,ÌÅgua e Esgoto; Res SÌ_lidos,61.25,95.46,8.58,98.18,58.47,98.18,44.66,NA,3134004
+313470,Jacinto,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR,ÌÅgua e Esgoto; ÌÅgua,48.7,0,12.62,47.46,0,47.46,35.97,0,3134707
+313505,JaÌ_ba,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31350540] SECRETARIA MUNICIPAL DE OBRAS - PMJ,ÌÅgua e Esgoto; Res SÌ_lidos,19.95,100,11.11,24.13,19.95,24.13,12.67,0.08,3135050
+313510,JanaÌ_ba,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31351040] PREFEITURA MUNICIPAL - PMJ,ÌÅgua e Esgoto; Res SÌ_lidos,20.07,100,15.06,24.89,20.07,24.89,22.57,0.37,3135100
+313520,JanuÌÁria,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31352040] Prefeitura Municipal de JanuÌÁria MG - PMJ,ÌÅgua e Esgoto; Res SÌ_lidos,18.42,100,16.58,18.46,18.42,18.46,11.65,0.53,3135209
+313535,Japonvar,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31353540] Prefeitura Municipal de Japonvar - PMJ,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,3135357
+313545,Jenipapo de Minas,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR,ÌÅgua e Esgoto,49.74,100,8.52,90.59,49.74,90.59,36.7,NA,3135456
+313580,Jequitinhonha,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31358040] SECRETARIA MUNICIPAL DE OBRAS.VIAÌàÌÄO E SERVIÌàOS URBANOS - SMOVSU,ÌÅgua e Esgoto; ÌÅgua; Res SÌ_lidos,51.35,100,8.51,65.92,51.35,65.92,46.61,0.32,3135803
+313600,JoaÌ_ma,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR,ÌÅgua e Esgoto; ÌÅgua,63.14,79.72,9.14,72.16,50.33,72.16,49.61,0.04,3136009
+313650,JordÌ¢nia,MG,2015,[31365011] Prefeitura Municipal de Jordania - PMJ; [31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31365040] SECRETARIA MUNICIPAL DE OBRA E SERVIÌàOS PUBLICOS - SEMOSP,Esgoto; ÌÅgua; Res SÌ_lidos,100,0,7.21,99.84,0,99.84,99.67,1.26,3136504
+313652,JosÌ© GonÌ_alves de Minas,MG,2015,[31365211] Prefeitura Municipal de JosÌ© GonÌ_alves de Minas - PMJGM; [31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31365240] Secretaria Municipal de Transporte. Obras e ServiÌ_os PÌ_blicos - SMTOS,Esgoto; ÌÅgua e Esgoto; Res SÌ_lidos,100,100,11.58,100,100,100,75.4,NA,3136520
+313657,JosenÌ_polis,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31365740] Prefeitura Municipal de JosenÌ_polis - MG,ÌÅgua e Esgoto; Res SÌ_lidos,29.77,100,7.51,77.02,29.77,77.02,41.22,NA,3136579
+313695,JuvenÌ_lia,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA,ÌÅgua e Esgoto,1.27,0,560.53,1.82,0,1.82,1.4,0,3136959
+313865,Lontra,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA,ÌÅgua e Esgoto,9.03,87.29,101.14,11.45,7.89,11.45,7.68,1.86,3138658
+313925,Mamonas,MG,2015,[31392540] Prefeitura Municipal de Mamonas - PMM,Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,3139250
+313930,Manga,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31393040] Secretaria Municipal de Obras e ServiÌ_os Urbanos - SMOS,ÌÅgua e Esgoto; Res SÌ_lidos,0.75,66.81,587.26,1.63,0.5,1.63,1.14,0.15,3139300
+314055,Mata Verde,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31405540] Prefeitura Municipal de Mata Verde - PMMV,ÌÅgua e Esgoto; Res SÌ_lidos,61.35,100,4.87,99.62,61.35,99.62,80.82,0.16,3140555
+314085,Matias Cardoso,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,3140852
+314100,Mato Verde,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,3141009
+314140,Medina,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR,ÌÅgua e Esgoto; ÌÅgua,71.6,0,4.39,81.56,0,81.56,58.54,0,3141405
+314225,MiravÌ¢nia,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31422540] Prefeitura Municipal de MiravÌ¢nia - PMM,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,3142254
+314270,MontalvÌ¢nia,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31427040] Prefeitura Municipal - PMM,ÌÅgua e Esgoto; Res SÌ_lidos,2.39,0,129.55,2.68,0,2.68,1.73,0,3142700
+314290,Monte Azul,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31429040] SECRETARIA MUNICIPAL DE ASSISTENCIA SOCIAL MONTE AZUL - SMAS,ÌÅgua e Esgoto; Res SÌ_lidos,0.61,81.64,206.75,1.65,0.5,1.65,0.93,1.95,3142908
+314315,Monte Formoso,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31431540] Secretaria Municipal de Obras PÌ_blicas - SMOP,ÌÅgua e Esgoto; Res SÌ_lidos,81.43,0,8.33,98.55,0,98.55,35.98,NA,3143153
+314345,Montezuma,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31434540] Secretaria Municipal de Obras e Urbanismo - SMOU,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,3143450
+314465,Ninheira,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31446540] Prefeitura Municipal de Ninheira - PMN,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,3144656
+314505,Nova Porteirinha,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31450540] Prefeitura Municipal de Nova Porteirinha - PM,ÌÅgua e Esgoto; Res SÌ_lidos,25.01,99.51,8.5,45.07,24.89,45.07,24.79,0,3145059
+314530,Novo Cruzeiro,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31453040] PREFEITURA MUNICIPAL DE NOVO CRUZEIRO - PMNC,ÌÅgua e Esgoto; ÌÅgua e Esgoto; Res SÌ_lidos,47.86,4.54,7.03,58.61,2.18,58.61,24.37,NA,3145307
+314537,Novorizonte,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR,ÌÅgua e Esgoto,16.17,100,9.03,0,16.17,0,21.9,NA,3145372
+314625,Padre Carvalho,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR,ÌÅgua e Esgoto,12.77,100,8.21,0,12.77,0,8.3,NA,3146255
+314630,Padre ParaÌ_so,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31463040] Prefeitura Municipal de Padre ParaÌ_so - PMPP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,3146305
+314655,Pai Pedro,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31465540] PREFEITURA MUNICIPAL DE PAI PEDRO - PMPP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,3146552
+314795,Patis,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31479540] Prefeitura Municipal de Patis - PMP,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,3147956
+314870,Pedra Azul,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31487040] prefeitura municipal de pedra azul - PMPA,ÌÅgua e Esgoto; Res SÌ_lidos,70.1,100,6.3,77.04,70.1,77.04,67.88,0.24,3148707
+314915,Pedras de Maria da Cruz,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31491540] Prefeitura Municipal de Pedras de Maria da Cruz - PMPMC,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,3149150
+315217,Ponto dos Volantes,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,3152170
+315220,Porteirinha,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31522040] Secretaria de Meio Ambiente e Turismo - SMATUR,ÌÅgua e Esgoto; Res SÌ_lidos,21.98,93.81,22.89,32.36,20.62,32.36,16.63,0.25,3152204
+315450,Riacho dos Machados,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31545040] Prefeitura Municipal de Riacho Dos Machados - PMRM,ÌÅgua e Esgoto; Res SÌ_lidos,51.92,99.15,18.06,52.76,51.48,52.76,25.36,0.28,3154507
+315560,Rio Pardo de Minas,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31556040] PREFEITURA MUNICIPAL DE RIO PARDO DE MINAS - MG - PMRPM,ÌÅgua e Esgoto; Res SÌ_lidos,21.75,100,31.55,24.67,21.75,24.67,9.91,0.26,3155603
+315650,Rubelita,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31565040] Prefeitura Municipal de Rubelita - PMR,ÌÅgua e Esgoto; Res SÌ_lidos,29.18,100,12.21,88.72,29.18,88.72,28.72,NA,3156502
+315660,Rubim,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,3156601
+315700,Salinas,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31570040] Prefeitura Municipal de Salinas - PMS,ÌÅgua e Esgoto; ÌÅgua e Esgoto; Res SÌ_lidos,58.49,100,9.63,71.68,58.49,71.68,64.01,NA,3157005
+315710,Salto da Divisa,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,3157104
+315737,Santa Cruz de Salinas,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31573740] PREFEITURA MUNICIPAL DE SANTA CRUZ DE SALINAS - PMSCS,ÌÅgua e Esgoto; Res SÌ_lidos,73.1,100,7.8,47.78,73.1,47.78,46.22,NA,3157377
+315810,Santa Maria do Salto,MG,2015,[31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR,ÌÅgua e Esgoto,90.7,0,8.71,91.88,0,91.88,65.07,NA,3158102
+316045,Santo AntÌ«nio do Retiro,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31604540] PREFEITURA MUNICIPAL DE SANTO ANTONIO DO RETIRO - PMSAR,ÌÅgua e Esgoto; Res SÌ_lidos,71.03,100,10.99,82.66,71.03,82.66,18.9,0.04,3160454
+316240,SÌ£o JoÌ£o da Ponte,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA,ÌÅgua e Esgoto,12.54,99.43,15.14,12.03,12.46,12.03,4.11,0.39,3162401
+316245,SÌ£o JoÌ£o das MissÌµes,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,3162450
+316270,SÌ£o JoÌ£o do ParaÌ_so,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA,ÌÅgua e Esgoto,36.21,99.71,13.16,49.17,36.11,49.17,22.55,0.34,3162708
+316695,SerranÌ_polis de Minas,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31669540] DIRETORIA TÌäCNICA DE MEIO AMBIENTE - DTMA,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,3166956
+316800,Taiobeiras,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR; [31680040] PREFEITUR MUNICIPAL DE TAIOBEIRAS - PMT,ÌÅgua e Esgoto; ÌÅgua; Res SÌ_lidos,27.83,100,5.85,33.18,27.83,33.18,26.9,0.29,3168002
+317065,Vargem Grande do Rio Pardo,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA,ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,3170651
+317090,VarzelÌ¢ndia,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA,ÌÅgua e Esgoto,11.26,81.84,16.08,13.87,9.22,13.87,6.46,0.28,3170909
+317103,VerdelÌ¢ndia,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31710340] Prefeitura Municipal de VerdelÌ¢ndia - PMV,ÌÅgua; Res SÌ_lidos,NA,NA,NA,NA,NA,NA,NA,NA,3171030
+317160,Virgem da Lapa,MG,2015,[31062000] Companhia de Saneamento de Minas Gerais - COPASA; [31686000] Copasa ServiÌ_os de Saneamento Integrado do Norte e Nordeste de Minas Gerais S/A - COPANOR,ÌÅgua; ÌÅgua,NA,NA,NA,NA,NA,NA,NA,NA,3171600
